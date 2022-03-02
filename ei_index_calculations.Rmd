@@ -1,0 +1,514 @@
+---
+title: "EI calculations"
+author: "Amber Chin"
+date: "3/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(devtools)
+library(igraph)
+library(isnar)
+```
+
+## External-Internal Index Calculations
+
+**Network-level calculations**
+
+*Following-follower (ff) network EI values*
+```{r}
+## overall ff network EI values
+ff_node<- read_csv("node_ff.csv") #node table for ff network
+names(ff_node) <- c("name","id","party")
+ff_node<- ff_node[,c(2,1,3)] #igraph requires specific order for inputs
+ff_edge<- read_csv("edge_ff.csv") #edge table for ff network
+ff_edge<- ff_edge[,c(2:3,1)]
+
+ff_net<- igraph::graph_from_data_frame(ff_edge, directed=T, vert=ff_node)
+plot(ff_net, vertex.label = V(ff_net)$name)
+
+ff_overall_ei_score = ei(ff_net, "party") #network-level EI Index
+```
+
+*Retweet (rt) network EI values*
+```{r}
+rt_node<- read_csv("node_rt.csv") #node table for rt network
+names(rt_node) <- c("name","id","party")
+rt_node<- rt_node[,c(2,1,3)] #igraph requires specific order for inputs
+rt_edge<- read_csv("edge_rt.csv") #edge table for rt network
+
+rt_net<- igraph::graph_from_data_frame(rt_edge, directed=T, vert=rt_node)
+plot(rt_net, vertex.label = V(rt_net)$name)
+
+rt_overall_ei_score = ei(rt_net, "party") #network-level EI Index
+```
+
+*Mentions (mtn) network EI values*
+```{r}
+mtn_node<- read_csv("node_mtns.csv") #node table for mtn network
+names(mtn_node) <- c("name","party","id")
+mtn_node<- mtn_node[,c(3,1,2)] #igraph requires specific order for inputs
+mtn_edge<- read_csv("edge_mtns.csv") #edge table for mtn network
+mtn_edge<- mtn_edge[,1:3]
+
+mtn_net<- igraph::graph_from_data_frame(mtn_edge, directed=T, vert=mtn_node)
+plot(mtn_net, vertex.label = V(mtn_net)$name)
+
+mtn_overall_ei_score = ei(mtn_net, "party") #network-level EI Index
+```
+
+**Mentions Network: Party-level EI calculations**
+
+*Die Linke*
+```{r}
+linke_node<- mtn_node
+names(linke_node)<- c("source",'name','source_party')
+linke_node<- merge(linke_node, mtn_edge, by = "source") #combine party info with MdB names
+
+linke_edge<- linke_node %>% filter(source_party=="The Left") #get edges involving Die Linke
+linke_edge<- linke_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(linke_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(linke_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+linke_node<- rename(linke_node, "id"="source") 
+linke_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot Die Linke network, EI Index calculation
+l<- igraph::graph_from_data_frame(linke_edge, directed =T, vert=linke_node)
+plot(l, vertex.label = V(l)$name)
+linke_mtn = ei(l, "party")
+```
+
+*Die Gruenen*
+```{r}
+greens_node<- mtn_node
+names(greens_node)<- c("source",'name','source_party')
+greens_node<- merge(greens_node, mtn_edge, by = "source") #combine party info with MdB names
+
+greens_edge<- greens_node %>% filter(source_party=="Greens") #get edges involving Die Linke
+greens_edge<- greens_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(greens_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(greens_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+greens_node<- rename(greens_node, "id"="source") 
+greens_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot Die Gruenen network, EI Index calculation
+g<- igraph::graph_from_data_frame(greens_edge, directed =T, vert=greens_node)
+plot(g, vertex.label = V(g)$name)
+greens_mtn = ei(g, "party")
+```
+
+*SPD*
+```{r}
+spd_node<- mtn_node
+names(spd_node)<- c("source",'name','source_party')
+spd_node<- merge(spd_node, mtn_edge, by = "source") #combine party info with MdB names
+
+spd_edge<- spd_node %>% filter(source_party=="SPD") #get edges involving Die Linke
+spd_edge<- spd_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(spd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(spd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+spd_node<- rename(spd_node, "id"="source") 
+spd_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot SPD network, EI Index calculation
+s<- igraph::graph_from_data_frame(spd_edge, directed =T, vert=spd_node)
+plot(s, vertex.label = V(s)$name)
+spd_mtn = ei(s, "party")
+```
+
+*AfD*
+```{r}
+afd_node<- mtn_node
+names(afd_node)<- c("source",'name','source_party')
+afd_node<- merge(afd_node, mtn_edge, by = "source") #combine party info with MdB names
+
+afd_edge<- afd_node %>% filter(source_party=="AfD") #get edges involving AfD
+afd_edge<- afd_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(afd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(afd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+afd_node<- rename(afd_node, "id"="source") 
+afd_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot AfD network, EI Index calculation
+a<- igraph::graph_from_data_frame(afd_edge, directed =T, vert=afd_node)
+plot(a, vertex.label = V(a)$name)
+afd_mtn = ei(a, "party")
+```
+
+*CDU/CSU*
+```{r}
+cdu_node<- mtn_node
+names(cdu_node)<- c("source",'name','source_party')
+cdu_node<- merge(cdu_node, mtn_edge, by = "source") #combine party info with MdB names
+
+cdu_edge<- cdu_node %>% filter(source_party=="CDU"|source_party=="CSU") #get edges involving CDU/CSU
+cdu_edge<- cdu_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(cdu_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(cdu_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+cdu_node<- rename(cdu_node, "id"="source") 
+cdu_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot CDU/CSU network, EI Index calculation
+c<- igraph::graph_from_data_frame(cdu_edge, directed =T, vert=cdu_node)
+plot(c, vertex.label = V(c)$name)
+cducsu_mtn = ei(c, "party")
+```
+
+*FDP*
+```{r}
+fdp_node<- mtn_node
+names(fdp_node)<- c("source",'name','source_party')
+fdp_node<- merge(fdp_node, mtn_edge, by = "source") #combine party info with MdB names
+
+fdp_edge<- fdp_node %>% filter(source_party=="FDP") #get edges involving FDP
+fdp_edge<- fdp_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(fdp_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(fdp_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+fdp_node<- rename(fdp_node, "id"="source") 
+fdp_node<- merge(df, mtn_node, by = "id") #merge with MdB party data
+
+## plot FDP network, EI Index calculation
+f<- igraph::graph_from_data_frame(fdp_edge, directed =T, vert=fdp_node)
+plot(f, vertex.label = V(f)$name)
+fdp_mtn = ei(f, "party")
+```
+
+**Following-Follower Network: Party-level EI calculations**
+
+*Die Linke*
+```{r}
+linke_node<- ff_node
+names(linke_node)<- c("source",'name','source_party')
+linke_node<- merge(linke_node, ff_edge, by = "source") #combine party info with MdB names
+linke_node<- linke_node[,1:4]
+
+linke_edge<- linke_node %>% filter(source_party=="The Left") #get edges involving Die Linke
+linke_edge<- linke_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(linke_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(linke_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+linke_node<- rename(linke_node, "id"="source") 
+linke_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot Die Linke network, EI Index calculation
+l<- igraph::graph_from_data_frame(linke_edge, directed =T, vert=linke_node)
+plot(l, vertex.label = V(l)$name)
+linke_ff = ei(l, "party")
+```
+
+*Die Gruenen*
+```{r}
+greens_node<- ff_node
+names(greens_node)<- c("source",'name','source_party')
+greens_node<- merge(greens_node, ff_edge, by = "source") #combine party info with MdB names
+greens_node<- greens_node[,1:4]
+
+greens_edge<- greens_node %>% filter(source_party=="Greens") #get edges involving Greens
+greens_edge<- greens_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(greens_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(greens_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+greens_node<- rename(greens_node, "id"="source") 
+greens_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot Greens network, EI Index calculation
+g<- igraph::graph_from_data_frame(greens_edge, directed =T, vert=greens_node)
+plot(g, vertex.label = V(g)$name)
+greens_ff = ei(g, "party")
+```
+
+*CDU/CSU*
+```{r}
+cdu_node<- ff_node
+names(cdu_node)<- c("source",'name','source_party')
+cdu_node<- merge(cdu_node, ff_edge, by = "source") #combine party info with MdB names
+cdu_node<- cdu_node[,1:4]
+
+cdu_edge<- cdu_node %>% filter(source_party=="CDU"|source_party=="CSU") #get edges involving CDU/CSU
+cdu_edge<- cdu_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(cdu_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(cdu_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+cdu_node<- rename(cdu_node, "id"="source") 
+cdu_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot CDU/CSU network, EI Index calculation
+c<- igraph::graph_from_data_frame(cdu_edge, directed =T, vert=cdu_node)
+plot(c, vertex.label = V(c)$name)
+cducsu_ff = ei(c, "party")
+```
+
+*AfD*
+```{r}
+afd_node<- ff_node
+names(afd_node)<- c("source",'name','source_party')
+afd_node<- merge(afd_node, ff_edge, by = "source") #combine party info with MdB names
+afd_node<- afd_node[,1:4]
+
+afd_edge<- afd_node %>% filter(source_party=="AfD") #get edges involving AfD
+afd_edge<- afd_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(afd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(afd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+afd_node<- rename(afd_node, "id"="source") 
+afd_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot AfD network, EI Index calculation
+a<- igraph::graph_from_data_frame(afd_edge, directed =T, vert=afd_node)
+plot(a, vertex.label = V(a)$name)
+afd_ff = ei(a, "party")
+```
+
+*SPD*
+```{r}
+spd_node<- ff_node
+names(spd_node)<- c("source",'name','source_party')
+spd_node<- merge(spd_node, ff_edge, by = "source") #combine party info with MdB names
+spd_node<- spd_node[,1:4]
+
+spd_edge<- spd_node %>% filter(source_party=="SPD") #get edges involving SPD
+spd_edge<- spd_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(spd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(spd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+spd_node<- rename(spd_node, "id"="source") 
+spd_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot SPD network, EI Index calculation
+s<- igraph::graph_from_data_frame(spd_edge, directed =T, vert=spd_node)
+plot(s, vertex.label = V(s)$name)
+spd_ff = ei(s, "party")
+```
+
+*FDP*
+```{r}
+fdp_node<- ff_node
+names(fdp_node)<- c("source",'name','source_party')
+fdp_node<- merge(fdp_node, ff_edge, by = "source") #combine party info with MdB names
+fdp_node<- fdp_node[,1:4]
+
+fdp_edge<- fdp_node %>% filter(source_party=="FDP") #get edges involving FDP
+fdp_edge<- fdp_edge[,c(1,4)]
+
+## filter necessary nodes from total node set
+t1<- unique(fdp_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(fdp_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+fdp_node<- rename(fdp_node, "id"="source") 
+fdp_node<- merge(df, ff_node, by = "id") #merge with MdB party data
+
+## plot FDP network, EI Index calculation
+f<- igraph::graph_from_data_frame(fdp_edge, directed =T, vert=fdp_node)
+plot(f, vertex.label = V(f)$name)
+fdp_ff = ei(f, "party")
+```
+
+**Retweets Network: Party-level EI calculations**
+
+*Die Linke*
+```{r}
+linke_node<- rt_node
+names(linke_node)<- c("source",'name','source_party')
+linke_node<- merge(linke_node, rt_edge, by = "source") #combine party info with MdB names
+
+linke_edge<- linke_node %>% filter(source_party=="The Left") #get edges involving Die Linke
+linke_edge<- linke_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(linke_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(linke_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+linke_node<- rename(linke_node, "id"="source") 
+linke_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot Die Linke network, EI Index calculation
+l<- igraph::graph_from_data_frame(linke_edge, directed =T, vert=linke_node)
+plot(l, vertex.label = V(l)$name)
+linke_rt = ei(l, "party")
+```
+
+*Die Gruenen*
+```{r}
+greens_node<- rt_node
+names(greens_node)<- c("source",'name','source_party')
+greens_node<- merge(greens_node, rt_edge, by = "source") #combine party info with MdB names
+
+greens_edge<- greens_node %>% filter(source_party=="Greens") #get edges involving Greens
+greens_edge<- greens_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(greens_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(greens_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+greens_node<- rename(greens_node, "id"="source") 
+greens_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot Greens network, EI Index calculation
+g<- igraph::graph_from_data_frame(greens_edge, directed =T, vert=greens_node)
+plot(g, vertex.label = V(g)$name)
+greens_rt = ei(g, "party")
+```
+
+*SPD*
+```{r}
+spd_node<- rt_node
+names(spd_node)<- c("source",'name','source_party')
+spd_node<- merge(spd_node, rt_edge, by = "source") #combine party info with MdB names
+
+spd_edge<- spd_node %>% filter(source_party=="SPD") #get edges involving SPD
+spd_edge<- spd_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(spd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(spd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+spd_node<- rename(spd_node, "id"="source") 
+spd_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot SPD network, EI Index calculation
+s<- igraph::graph_from_data_frame(spd_edge, directed =T, vert=spd_node)
+plot(s, vertex.label = V(s)$name)
+spd_rt = ei(s, "party")
+```
+
+*AfD*
+```{r}
+afd_node<- rt_node
+names(afd_node)<- c("source",'name','source_party')
+afd_node<- merge(afd_node, rt_edge, by = "source") #combine party info with MdB names
+
+afd_edge<- afd_node %>% filter(source_party=="AfD") #get edges involving AfD
+afd_edge<- afd_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(afd_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(afd_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+afd_node<- rename(afd_node, "id"="source") 
+afd_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot AfD network, EI Index calculation
+a<- igraph::graph_from_data_frame(afd_edge, directed =T, vert=afd_node)
+plot(a, vertex.label = V(a)$name)
+afd_rt = ei(a, "party")
+```
+
+*FDP*
+```{r}
+fdp_node<- rt_node
+names(fdp_node)<- c("source",'name','source_party')
+fdp_node<- merge(fdp_node, rt_edge, by = "source") #combine party info with MdB names
+
+fdp_edge<- fdp_node %>% filter(source_party=="FDP") #get edges involving FDP
+fdp_edge<- fdp_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(fdp_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(fdp_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+fdp_node<- rename(fdp_node, "id"="source") 
+fdp_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot FDP network, EI Index calculation
+f<- igraph::graph_from_data_frame(fdp_edge, directed =T, vert=fdp_node)
+plot(f, vertex.label = V(f)$name)
+fdp_rt = ei(f, "party")
+```
+
+*CDU/CSU*
+```{r}
+cdu_node<- rt_node
+names(cdu_node)<- c("source",'name','source_party')
+cdu_node<- merge(cdu_node, rt_edge, by = "source") #combine party info with MdB names
+
+cdu_edge<- cdu_node %>% filter(source_party=="CDU"|source_party=="CSU") #get edges involving CDU/CSU
+cdu_edge<- cdu_edge[,c(1,4:5)]
+
+## filter necessary nodes from total node set
+t1<- unique(cdu_edge$source) #filter MdBs since not all are involved in this network
+t2<- unique(cdu_edge$target)
+df<- as.data.frame(unique(c(t1,t2))) 
+names(df)<- c('id')
+cdu_node<- rename(cdu_node, "id"="source") 
+cdu_node<- merge(df, rt_node, by = "id") #merge with MdB party data
+
+## plot CDU/CSU network, EI Index calculation
+c<- igraph::graph_from_data_frame(cdu_edge, directed =T, vert=cdu_node)
+plot(c, vertex.label = V(c)$name)
+cducsu_rt = ei(c, "party")
+```
+
+```{r}
+## compile EI data
+ei_index = c(greens_mtn,linke_mtn,cducsu_mtn,afd_mtn,spd_mtn,fdp_mtn,
+             greens_rt,linke_rt,cducsu_rt,afd_rt,spd_rt,fdp_rt,
+             greens_ff,linke_ff,cducsu_ff,afd_ff,spd_ff,fdp_ff)
+party = c(rep(c("Grünen","Linke","CDU/CSU","AfD","SPD","FDP"),3))
+network_type = c(rep("mentions",6), rep("retweet",6), rep("following-follower",6))
+ei_df<- as.data.frame(cbind(ei_index,party,network_type))
+ei_df$ei_index<- as.numeric(ei_df$ei_index)
+
+## generate plot of EI values
+dev.new(width=9, height=5)
+ei_plot<- ggplot(data=ei_df, aes(x=party, y=ei_index, fill=network_type)) +
+  geom_bar(stat="identity", width = 0.8, position=position_dodge()) +
+  scale_y_continuous(limits=c(-1, 0.5), breaks=c(-1.5,-1,-0.5,0,0.5)) + 
+  scale_fill_manual("Network Type", values = c("following-follower" ="orange", "mentions" ="purple", "retweet"="blue")) +
+  xlab("Political Party") +
+  ylab("E-I Index") +
+  theme(axis.title = element_text(size = 18, face = "bold"),
+        axis.text = element_text(size = 14, face = "bold"),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size=14, face="bold"),
+        legend.position=c(.5,.9),
+        legend.background = element_rect(size=0.5, linetype="solid", colour ="black"),
+        legend.direction= "horizontal") +
+  geom_hline(yintercept=0, linetype="dashed", color = "dark green") 
+ei_plot
+```
