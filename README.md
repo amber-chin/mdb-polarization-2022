@@ -10,7 +10,7 @@ We use Twitter data for the year 2020 to identify polarization trends among memb
 
 ## Results
 **Retweets network**
-!(https://raw.githubusercontent.com/amber-chin/mdb-polarization-2022/main/net_retweets.png)
+![net_retweets](https://user-images.githubusercontent.com/55859245/168030540-14b249b2-c552-4184-b509-a73c8e4fce9e.png)
 
 **Mentions network**
 
