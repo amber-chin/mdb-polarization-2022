@@ -1,0 +1,2085 @@
+source,label,party,target,weight
+1,Martin Neumann,FDP,177,1
+1,Martin Neumann,FDP,249,1
+1,Martin Neumann,FDP,282,1
+1,Martin Neumann,FDP,335,1
+1,Martin Neumann,FDP,356,1
+1,Martin Neumann,FDP,409,2
+1,Martin Neumann,FDP,462,1
+1,Martin Neumann,FDP,481,1
+10,Agnieszka Brugger,Greens,228,1
+10,Agnieszka Brugger,Greens,264,1
+10,Agnieszka Brugger,Greens,414,1
+10,Agnieszka Brugger,Greens,47,1
+100,Daniela Wagner,Greens,10,1
+100,Daniela Wagner,Greens,184,1
+100,Daniela Wagner,Greens,284,1
+100,Daniela Wagner,Greens,309,1
+100,Daniela Wagner,Greens,430,2
+100,Daniela Wagner,Greens,480,2
+100,Daniela Wagner,Greens,486,1
+101,Dennis Rohde,SPD,166,1
+101,Dennis Rohde,SPD,290,2
+101,Dennis Rohde,SPD,325,1
+101,Dennis Rohde,SPD,335,3
+101,Dennis Rohde,SPD,352,1
+101,Dennis Rohde,SPD,399,3
+101,Dennis Rohde,SPD,486,2
+101,Dennis Rohde,SPD,502,5
+101,Dennis Rohde,SPD,510,5
+103,Andreas Lenz,CSU,119,2
+103,Andreas Lenz,CSU,193,1
+103,Andreas Lenz,CSU,354,1
+103,Andreas Lenz,CSU,454,3
+103,Andreas Lenz,CSU,498,1
+103,Andreas Lenz,CSU,506,1
+103,Andreas Lenz,CSU,53,1
+103,Andreas Lenz,CSU,68,1
+104,Daniel Föst,FDP,255,1
+104,Daniel Föst,FDP,335,2
+104,Daniel Föst,FDP,494,1
+104,Daniel Föst,FDP,547,2
+106,Die Gruenen,Greens,3,2
+107,Die Linke,The Left,202,1
+107,Die Linke,The Left,259,1
+107,Die Linke,The Left,266,3
+107,Die Linke,The Left,331,1
+107,Die Linke,The Left,385,1
+107,Die Linke,The Left,40,2
+107,Die Linke,The Left,47,1
+107,Die Linke,The Left,516,1
+108,Dagmar Schmidt,SPD,118,1
+109,Diether Dehm,The Left,110,1
+109,Diether Dehm,The Left,298,1
+11,Gökay Akbulut,The Left,298,1
+110,Dietmar Bartsch,The Left,283,1
+112,Dirk Spaniel,AfD,139,1
+112,Dirk Spaniel,AfD,7,2
+113,Dirk Wiese,SPD,453,1
+114,Sabine Dittmar,SPD,453,1
+115,Dieter Janecek,Greens,18,1
+115,Dieter Janecek,Greens,184,1
+115,Dieter Janecek,Greens,252,1
+115,Dieter Janecek,Greens,255,1
+115,Dieter Janecek,Greens,260,2
+115,Dieter Janecek,Greens,283,4
+115,Dieter Janecek,Greens,290,1
+115,Dieter Janecek,Greens,3,1
+115,Dieter Janecek,Greens,309,6
+115,Dieter Janecek,Greens,310,1
+115,Dieter Janecek,Greens,323,1
+115,Dieter Janecek,Greens,33,2
+115,Dieter Janecek,Greens,414,1
+115,Dieter Janecek,Greens,430,1
+115,Dieter Janecek,Greens,44,1
+115,Dieter Janecek,Greens,47,1
+115,Dieter Janecek,Greens,480,1
+115,Dieter Janecek,Greens,509,1
+115,Dieter Janecek,Greens,545,1
+115,Dieter Janecek,Greens,99,1
+116,Bijan Djir-Sarai,FDP,202,1
+118,Dorothee Martin,SPD,101,1
+118,Dorothee Martin,SPD,166,3
+118,Dorothee Martin,SPD,203,1
+118,Dorothee Martin,SPD,204,1
+118,Dorothee Martin,SPD,229,2
+118,Dorothee Martin,SPD,290,2
+118,Dorothee Martin,SPD,325,2
+118,Dorothee Martin,SPD,384,1
+118,Dorothee Martin,SPD,502,2
+118,Dorothee Martin,SPD,506,1
+118,Dorothee Martin,SPD,68,1
+119,Dorothee Bär,CSU,103,4
+119,Dorothee Bär,CSU,104,1
+119,Dorothee Bär,CSU,193,1
+119,Dorothee Bär,CSU,338,2
+119,Dorothee Bär,CSU,354,1
+119,Dorothee Bär,CSU,36,1
+119,Dorothee Bär,CSU,396,1
+119,Dorothee Bär,CSU,430,2
+119,Dorothee Bär,CSU,454,1
+119,Dorothee Bär,CSU,459,1
+119,Dorothee Bär,CSU,467,1
+119,Dorothee Bär,CSU,522,1
+119,Dorothee Bär,CSU,99,1
+120,Rainer Kraft,AfD,107,1
+120,Rainer Kraft,AfD,110,2
+120,Rainer Kraft,AfD,202,1
+120,Rainer Kraft,AfD,223,1
+120,Rainer Kraft,AfD,232,1
+120,Rainer Kraft,AfD,260,2
+120,Rainer Kraft,AfD,294,1
+120,Rainer Kraft,AfD,376,1
+120,Rainer Kraft,AfD,40,2
+120,Rainer Kraft,AfD,426,1
+120,Rainer Kraft,AfD,430,1
+120,Rainer Kraft,AfD,463,1
+120,Rainer Kraft,AfD,75,2
+120,Rainer Kraft,AfD,77,1
+120,Rainer Kraft,AfD,78,1
+123,Andreas Nick,CDU,241,1
+123,Andreas Nick,CDU,283,2
+125,Joe Weingarten,SPD,463,1
+125,Joe Weingarten,SPD,68,1
+127,Michael Espendiller,AfD,177,1
+127,Michael Espendiller,AfD,228,1
+127,Michael Espendiller,AfD,232,3
+127,Michael Espendiller,AfD,252,2
+127,Michael Espendiller,AfD,283,2
+127,Michael Espendiller,AfD,376,1
+127,Michael Espendiller,AfD,428,1
+127,Michael Espendiller,AfD,468,1
+129,Harald Ebner,Greens,72,1
+131,Ekin Deligöz,Greens,202,1
+131,Ekin Deligöz,Greens,215,1
+131,Ekin Deligöz,Greens,264,2
+131,Ekin Deligöz,Greens,309,1
+131,Ekin Deligöz,Greens,414,1
+131,Ekin Deligöz,Greens,486,3
+131,Ekin Deligöz,Greens,82,1
+136,Erhard Grundl,Greens,184,3
+137,Klaus Ernst,The Left,340,1
+137,Klaus Ernst,The Left,397,1
+137,Klaus Ernst,The Left,484,1
+138,Erwin Rüddel,CDU,241,2
+138,Erwin Rüddel,CDU,260,2
+138,Erwin Rüddel,CDU,354,1
+138,Erwin Rüddel,CDU,459,1
+139,Saskia Esken,SPD,180,1
+139,Saskia Esken,SPD,193,1
+139,Saskia Esken,SPD,260,1
+139,Saskia Esken,SPD,283,1
+139,Saskia Esken,SPD,303,1
+139,Saskia Esken,SPD,316,2
+139,Saskia Esken,SPD,338,1
+139,Saskia Esken,SPD,393,1
+139,Saskia Esken,SPD,42,2
+139,Saskia Esken,SPD,481,1
+139,Saskia Esken,SPD,494,2
+139,Saskia Esken,SPD,537,1
+139,Saskia Esken,SPD,547,1
+139,Saskia Esken,SPD,67,2
+141,Michael Theurer,FDP,155,1
+141,Michael Theurer,FDP,268,1
+141,Michael Theurer,FDP,68,1
+142,Frank Schäffler,FDP,143,1
+142,Frank Schäffler,FDP,288,4
+142,Frank Schäffler,FDP,399,1
+143,Fabio De Masi,The Left,110,2
+143,Fabio De Masi,The Left,141,1
+143,Fabio De Masi,The Left,142,1
+143,Fabio De Masi,The Left,155,2
+143,Fabio De Masi,The Left,168,1
+143,Fabio De Masi,The Left,203,1
+143,Fabio De Masi,The Left,205,2
+143,Fabio De Masi,The Left,229,1
+143,Fabio De Masi,The Left,279,1
+143,Fabio De Masi,The Left,288,1
+143,Fabio De Masi,The Left,298,2
+143,Fabio De Masi,The Left,299,1
+143,Fabio De Masi,The Left,338,6
+143,Fabio De Masi,The Left,399,2
+143,Fabio De Masi,The Left,414,1
+143,Fabio De Masi,The Left,47,5
+143,Fabio De Masi,The Left,68,1
+143,Fabio De Masi,The Left,84,1
+144,Yasmin Fahimi,SPD,149,1
+144,Yasmin Fahimi,SPD,393,1
+144,Yasmin Fahimi,SPD,42,1
+144,Yasmin Fahimi,SPD,463,1
+144,Yasmin Fahimi,SPD,75,1
+146,Franziska Brantner,Greens,10,1
+146,Franziska Brantner,Greens,184,1
+146,Franziska Brantner,Greens,283,1
+146,Franziska Brantner,Greens,430,1
+146,Franziska Brantner,Greens,553,1
+146,Franziska Brantner,Greens,83,1
+149,FDP Bundestag,FDP,119,1
+149,FDP Bundestag,FDP,141,1
+149,FDP Bundestag,FDP,185,1
+149,FDP Bundestag,FDP,212,1
+149,FDP Bundestag,FDP,244,1
+149,FDP Bundestag,FDP,260,1
+149,FDP Bundestag,FDP,463,2
+149,FDP Bundestag,FDP,494,2
+149,FDP Bundestag,FDP,67,1
+149,FDP Bundestag,FDP,68,1
+149,FDP Bundestag,FDP,78,1
+15,Alexander Neu,The Left,376,1
+15,Alexander Neu,The Left,463,1
+15,Alexander Neu,The Left,539,1
+15,Alexander Neu,The Left,71,2
+151,Felix Schreiner,CDU,67,2
+153,Filiz Polat,Greens,36,1
+155,Florian Toncar,FDP,143,1
+155,Florian Toncar,FDP,395,2
+162,Frank Schwabe,SPD,177,1
+162,Frank Schwabe,SPD,203,1
+162,Frank Schwabe,SPD,223,1
+162,Frank Schwabe,SPD,259,1
+162,Frank Schwabe,SPD,283,3
+162,Frank Schwabe,SPD,289,1
+162,Frank Schwabe,SPD,316,1
+162,Frank Schwabe,SPD,352,2
+162,Frank Schwabe,SPD,354,1
+162,Frank Schwabe,SPD,363,1
+162,Frank Schwabe,SPD,386,1
+162,Frank Schwabe,SPD,395,1
+162,Frank Schwabe,SPD,463,1
+162,Frank Schwabe,SPD,47,2
+166,Fritz Felgentreu,SPD,10,2
+166,Fritz Felgentreu,SPD,125,1
+166,Fritz Felgentreu,SPD,17,1
+166,Fritz Felgentreu,SPD,204,2
+166,Fritz Felgentreu,SPD,209,1
+166,Fritz Felgentreu,SPD,240,1
+166,Fritz Felgentreu,SPD,259,2
+166,Fritz Felgentreu,SPD,275,1
+166,Fritz Felgentreu,SPD,293,1
+166,Fritz Felgentreu,SPD,295,1
+166,Fritz Felgentreu,SPD,316,1
+166,Fritz Felgentreu,SPD,335,4
+166,Fritz Felgentreu,SPD,352,6
+166,Fritz Felgentreu,SPD,363,3
+166,Fritz Felgentreu,SPD,384,1
+166,Fritz Felgentreu,SPD,386,1
+166,Fritz Felgentreu,SPD,392,1
+166,Fritz Felgentreu,SPD,414,10
+166,Fritz Felgentreu,SPD,457,1
+166,Fritz Felgentreu,SPD,502,6
+166,Fritz Felgentreu,SPD,503,1
+166,Fritz Felgentreu,SPD,540,1
+166,Fritz Felgentreu,SPD,75,1
+166,Fritz Felgentreu,SPD,78,1
+167,Markus Frohnmaier,AfD,406,1
+167,Markus Frohnmaier,AfD,7,1
+168,Friedrich Straetmanns,The Left,385,1
+17,Alexander Müller,FDP,104,1
+170,Gabriele Katzmarek,SPD,452,1
+171,Ingo Gädechens,CDU,459,1
+171,Ingo Gädechens,CDU,517,1
+175,Gerold Otten,AfD,202,1
+175,Gerold Otten,AfD,503,1
+177,Katrin Göring-Eckardt,Greens,10,1
+177,Katrin Göring-Eckardt,Greens,228,1
+177,Katrin Göring-Eckardt,Greens,244,1
+177,Katrin Göring-Eckardt,Greens,283,1
+177,Katrin Göring-Eckardt,Greens,309,5
+177,Katrin Göring-Eckardt,Greens,338,1
+177,Katrin Göring-Eckardt,Greens,365,1
+177,Katrin Göring-Eckardt,Greens,397,1
+177,Katrin Göring-Eckardt,Greens,68,1
+177,Katrin Göring-Eckardt,Greens,94,1
+180,Hermann Gröhe,CDU,139,1
+180,Hermann Gröhe,CDU,452,1
+180,Hermann Gröhe,CDU,77,1
+181,Markus Grübel,CDU,208,1
+182,Claudia Müller,Greens,10,1
+182,Claudia Müller,Greens,119,1
+182,Claudia Müller,Greens,131,1
+182,Claudia Müller,Greens,217,1
+182,Claudia Müller,Greens,237,1
+182,Claudia Müller,Greens,250,1
+182,Claudia Müller,Greens,252,1
+182,Claudia Müller,Greens,299,1
+182,Claudia Müller,Greens,309,1
+182,Claudia Müller,Greens,428,2
+182,Claudia Müller,Greens,459,1
+182,Claudia Müller,Greens,47,1
+182,Claudia Müller,Greens,480,1
+182,Claudia Müller,Greens,498,1
+182,Claudia Müller,Greens,547,7
+182,Claudia Müller,Greens,59,1
+182,Claudia Müller,Greens,78,2
+182,Claudia Müller,Greens,84,1
+183,Beate Müller-Gemmeke,Greens,323,1
+183,Beate Müller-Gemmeke,Greens,82,1
+184,Die Gruenen Bundestag,Greens,10,1
+184,Die Gruenen Bundestag,Greens,115,1
+184,Die Gruenen Bundestag,Greens,136,1
+184,Die Gruenen Bundestag,Greens,146,1
+184,Die Gruenen Bundestag,Greens,177,1
+184,Die Gruenen Bundestag,Greens,190,2
+184,Die Gruenen Bundestag,Greens,218,2
+184,Die Gruenen Bundestag,Greens,252,3
+184,Die Gruenen Bundestag,Greens,265,1
+184,Die Gruenen Bundestag,Greens,278,1
+184,Die Gruenen Bundestag,Greens,284,1
+184,Die Gruenen Bundestag,Greens,3,2
+184,Die Gruenen Bundestag,Greens,309,1
+184,Die Gruenen Bundestag,Greens,391,1
+184,Die Gruenen Bundestag,Greens,397,1
+184,Die Gruenen Bundestag,Greens,430,1
+184,Die Gruenen Bundestag,Greens,469,1
+184,Die Gruenen Bundestag,Greens,486,1
+184,Die Gruenen Bundestag,Greens,487,2
+184,Die Gruenen Bundestag,Greens,525,2
+184,Die Gruenen Bundestag,Greens,536,1
+184,Die Gruenen Bundestag,Greens,59,1
+184,Die Gruenen Bundestag,Greens,78,1
+184,Die Gruenen Bundestag,Greens,82,1
+185,Götz Frömming,AfD,149,1
+185,Götz Frömming,AfD,159,1
+185,Götz Frömming,AfD,228,2
+185,Götz Frömming,AfD,232,3
+185,Götz Frömming,AfD,260,1
+185,Götz Frömming,AfD,387,1
+185,Götz Frömming,AfD,406,1
+185,Götz Frömming,AfD,459,1
+185,Götz Frömming,AfD,468,1
+185,Götz Frömming,AfD,522,1
+185,Götz Frömming,AfD,77,1
+185,Götz Frömming,AfD,8,1
+189,Gyde Jensen,FDP,316,1
+189,Gyde Jensen,FDP,335,1
+189,Gyde Jensen,FDP,67,1
+191,Harald Weyel,AfD,142,3
+191,Harald Weyel,AfD,176,1
+191,Harald Weyel,AfD,178,2
+191,Harald Weyel,AfD,232,2
+191,Harald Weyel,AfD,260,2
+191,Harald Weyel,AfD,317,1
+191,Harald Weyel,AfD,376,1
+191,Harald Weyel,AfD,442,1
+191,Harald Weyel,AfD,45,3
+191,Harald Weyel,AfD,451,1
+191,Harald Weyel,AfD,468,4
+191,Harald Weyel,AfD,507,2
+191,Harald Weyel,AfD,77,1
+191,Harald Weyel,AfD,8,1
+192,Thomas Hacker,FDP,149,1
+193,Florian Hahn,CSU,119,2
+193,Florian Hahn,CSU,290,1
+193,Florian Hahn,CSU,78,1
+2,Angelika Glöckner,SPD,215,1
+2,Angelika Glöckner,SPD,395,1
+202,Heiko Maas,SPD,203,1
+203,Helge Lindh,SPD,32,1
+203,Helge Lindh,SPD,518,1
+204,Wolfgang Hellmich,SPD,101,1
+204,Wolfgang Hellmich,SPD,118,1
+204,Wolfgang Hellmich,SPD,166,2
+204,Wolfgang Hellmich,SPD,202,1
+205,Markus Herbrand,FDP,139,1
+205,Markus Herbrand,FDP,143,1
+206,Marcel Emmerich,Greens,354,1
+207,Evrim Sommer,The Left,298,1
+208,Heribert Hirte,CDU,143,1
+208,Heribert Hirte,CDU,189,1
+208,Heribert Hirte,CDU,256,1
+208,Heribert Hirte,CDU,289,1
+208,Heribert Hirte,CDU,309,1
+208,Heribert Hirte,CDU,403,1
+208,Heribert Hirte,CDU,539,1
+208,Heribert Hirte,CDU,58,1
+208,Heribert Hirte,CDU,77,1
+208,Heribert Hirte,CDU,78,1
+21,Amira Mohamed Ali,The Left,298,1
+211,Alexander Hoffmann,CSU,281,1
+212,Christoph Hoffmann,FDP,1,1
+212,Christoph Hoffmann,FDP,139,1
+212,Christoph Hoffmann,FDP,141,1
+212,Christoph Hoffmann,FDP,142,1
+212,Christoph Hoffmann,FDP,149,4
+212,Christoph Hoffmann,FDP,177,1
+212,Christoph Hoffmann,FDP,189,1
+212,Christoph Hoffmann,FDP,202,1
+212,Christoph Hoffmann,FDP,205,1
+212,Christoph Hoffmann,FDP,212,1
+212,Christoph Hoffmann,FDP,225,1
+212,Christoph Hoffmann,FDP,228,1
+212,Christoph Hoffmann,FDP,245,1
+212,Christoph Hoffmann,FDP,260,2
+212,Christoph Hoffmann,FDP,283,2
+212,Christoph Hoffmann,FDP,398,1
+212,Christoph Hoffmann,FDP,409,1
+212,Christoph Hoffmann,FDP,426,2
+212,Christoph Hoffmann,FDP,506,1
+212,Christoph Hoffmann,FDP,527,1
+212,Christoph Hoffmann,FDP,83,2
+212,Christoph Hoffmann,FDP,97,1
+213,Reinhard Houben,FDP,335,1
+213,Reinhard Houben,FDP,409,1
+213,Reinhard Houben,FDP,77,1
+215,Hubertus Heil,SPD,109,1
+215,Hubertus Heil,SPD,354,1
+215,Hubertus Heil,SPD,395,1
+215,Hubertus Heil,SPD,68,1
+217,Ingrid Nestle,Greens,409,2
+217,Ingrid Nestle,Greens,77,1
+218,Irene Mihalic,Greens,284,1
+218,Irene Mihalic,Greens,316,1
+218,Irene Mihalic,Greens,331,2
+218,Irene Mihalic,Greens,35,1
+219,Isabel Mackensen-Geis,SPD,129,1
+219,Isabel Mackensen-Geis,SPD,502,1
+22,Andreas Wagner (politician),The Left,174,1
+22,Andreas Wagner (politician),The Left,203,2
+22,Andreas Wagner (politician),The Left,228,1
+22,Andreas Wagner (politician),The Left,259,1
+22,Andreas Wagner (politician),The Left,32,1
+22,Andreas Wagner (politician),The Left,78,1
+220,Fabian Jacobi,AfD,202,1
+220,Fabian Jacobi,AfD,316,1
+220,Fabian Jacobi,AfD,338,1
+220,Fabian Jacobi,AfD,385,1
+220,Fabian Jacobi,AfD,418,1
+220,Fabian Jacobi,AfD,463,1
+220,Fabian Jacobi,AfD,492,1
+220,Fabian Jacobi,AfD,68,1
+220,Fabian Jacobi,AfD,7,1
+221,Jan Nolte,AfD,247,1
+221,Jan Nolte,AfD,316,1
+221,Jan Nolte,AfD,395,1
+221,Jan Nolte,AfD,526,1
+223,Jan Korte,The Left,202,1
+223,Jan Korte,The Left,47,1
+225,Jens Brandenburg,FDP,141,1
+225,Jens Brandenburg,FDP,182,1
+225,Jens Brandenburg,FDP,256,3
+225,Jens Brandenburg,FDP,487,3
+225,Jens Brandenburg,FDP,525,1
+228,Jens Spahn,CDU,260,1
+229,Jens Zimmermann,SPD,260,1
+229,Jens Zimmermann,SPD,352,2
+229,Jens Zimmermann,SPD,363,1
+229,Jens Zimmermann,SPD,463,1
+229,Jens Zimmermann,SPD,465,1
+229,Jens Zimmermann,SPD,502,2
+229,Jens Zimmermann,SPD,506,2
+229,Jens Zimmermann,SPD,68,1
+231,Jan-Marco Luczak,CDU,171,1
+231,Jan-Marco Luczak,CDU,283,1
+231,Jan-Marco Luczak,CDU,430,4
+231,Jan-Marco Luczak,CDU,479,1
+231,Jan-Marco Luczak,CDU,68,1
+232,Joana Cotar,AfD,119,1
+232,Joana Cotar,AfD,127,1
+232,Joana Cotar,AfD,139,1
+232,Joana Cotar,AfD,177,1
+232,Joana Cotar,AfD,185,4
+232,Joana Cotar,AfD,202,2
+232,Joana Cotar,AfD,203,2
+232,Joana Cotar,AfD,228,1
+232,Joana Cotar,AfD,237,4
+232,Joana Cotar,AfD,260,3
+232,Joana Cotar,AfD,266,1
+232,Joana Cotar,AfD,268,1
+232,Joana Cotar,AfD,283,3
+232,Joana Cotar,AfD,3,1
+232,Joana Cotar,AfD,316,1
+232,Joana Cotar,AfD,376,1
+232,Joana Cotar,AfD,385,1
+232,Joana Cotar,AfD,395,1
+232,Joana Cotar,AfD,40,1
+232,Joana Cotar,AfD,406,1
+232,Joana Cotar,AfD,414,1
+232,Joana Cotar,AfD,430,1
+232,Joana Cotar,AfD,45,1
+232,Joana Cotar,AfD,463,2
+232,Joana Cotar,AfD,526,1
+232,Joana Cotar,AfD,527,1
+232,Joana Cotar,AfD,68,3
+232,Joana Cotar,AfD,75,5
+232,Joana Cotar,AfD,78,2
+236,Johann Saathoff,SPD,113,1
+236,Johann Saathoff,SPD,166,1
+236,Johann Saathoff,SPD,463,1
+237,Johannes Vogel,FDP,166,1
+237,Johannes Vogel,FDP,177,1
+237,Johannes Vogel,FDP,182,1
+237,Johannes Vogel,FDP,215,1
+237,Johannes Vogel,FDP,232,1
+237,Johannes Vogel,FDP,255,1
+237,Johannes Vogel,FDP,268,1
+237,Johannes Vogel,FDP,275,1
+237,Johannes Vogel,FDP,281,1
+237,Johannes Vogel,FDP,283,5
+237,Johannes Vogel,FDP,290,1
+237,Johannes Vogel,FDP,335,4
+237,Johannes Vogel,FDP,376,1
+237,Johannes Vogel,FDP,399,1
+237,Johannes Vogel,FDP,414,1
+237,Johannes Vogel,FDP,467,1
+237,Johannes Vogel,FDP,486,1
+237,Johannes Vogel,FDP,487,1
+237,Johannes Vogel,FDP,523,1
+237,Johannes Vogel,FDP,547,1
+237,Johannes Vogel,FDP,72,1
+237,Johannes Vogel,FDP,98,1
+239,Josephine Ortleb,SPD,502,1
+24,Andreas Rimkus,SPD,113,1
+24,Andreas Rimkus,SPD,139,1
+24,Andreas Rimkus,SPD,156,1
+24,Andreas Rimkus,SPD,166,1
+24,Andreas Rimkus,SPD,203,1
+24,Andreas Rimkus,SPD,215,1
+24,Andreas Rimkus,SPD,229,1
+24,Andreas Rimkus,SPD,250,1
+24,Andreas Rimkus,SPD,259,1
+24,Andreas Rimkus,SPD,275,1
+24,Andreas Rimkus,SPD,316,1
+24,Andreas Rimkus,SPD,373,3
+24,Andreas Rimkus,SPD,42,1
+24,Andreas Rimkus,SPD,443,1
+24,Andreas Rimkus,SPD,454,1
+24,Andreas Rimkus,SPD,463,2
+24,Andreas Rimkus,SPD,464,2
+24,Andreas Rimkus,SPD,465,1
+24,Andreas Rimkus,SPD,480,1
+24,Andreas Rimkus,SPD,498,1
+24,Andreas Rimkus,SPD,502,1
+24,Andreas Rimkus,SPD,506,2
+24,Andreas Rimkus,SPD,509,1
+24,Andreas Rimkus,SPD,512,1
+24,Andreas Rimkus,SPD,68,2
+24,Andreas Rimkus,SPD,96,4
+241,Johannes Steiniger,CDU,281,3
+241,Johannes Steiniger,CDU,283,1
+241,Johannes Steiniger,CDU,284,1
+241,Johannes Steiniger,CDU,335,1
+241,Johannes Steiniger,CDU,338,1
+241,Johannes Steiniger,CDU,354,2
+241,Johannes Steiniger,CDU,36,1
+241,Johannes Steiniger,CDU,371,1
+241,Johannes Steiniger,CDU,446,2
+241,Johannes Steiniger,CDU,459,1
+241,Johannes Steiniger,CDU,502,1
+241,Johannes Steiniger,CDU,59,1
+241,Johannes Steiniger,CDU,72,1
+242,Johann Wadephul,CDU,281,1
+242,Johann Wadephul,CDU,384,1
+244,Jürgen Trittin,Greens,184,1
+244,Jürgen Trittin,Greens,202,1
+244,Jürgen Trittin,Greens,391,1
+244,Jürgen Trittin,Greens,395,1
+244,Jürgen Trittin,Greens,486,1
+244,Jürgen Trittin,Greens,82,1
+245,Judith Skudelny,FDP,147,1
+247,Jürgen Braun,AfD,166,1
+247,Jürgen Braun,AfD,221,1
+247,Jürgen Braun,AfD,237,1
+247,Jürgen Braun,AfD,338,1
+247,Jürgen Braun,AfD,452,1
+249,Julia Verlinden,Greens,1,1
+249,Julia Verlinden,Greens,184,1
+25,Andreas Bleck,AfD,87,1
+250,Frank Junge,SPD,547,1
+251,Jutta Krellmann,The Left,68,1
+252,Kordula Schulz-Asche,Greens,10,1
+252,Kordula Schulz-Asche,Greens,106,1
+252,Kordula Schulz-Asche,Greens,115,2
+252,Kordula Schulz-Asche,Greens,131,1
+252,Kordula Schulz-Asche,Greens,146,2
+252,Kordula Schulz-Asche,Greens,177,1
+252,Kordula Schulz-Asche,Greens,228,1
+252,Kordula Schulz-Asche,Greens,259,1
+252,Kordula Schulz-Asche,Greens,260,1
+252,Kordula Schulz-Asche,Greens,264,1
+252,Kordula Schulz-Asche,Greens,283,1
+252,Kordula Schulz-Asche,Greens,309,2
+252,Kordula Schulz-Asche,Greens,323,6
+252,Kordula Schulz-Asche,Greens,383,1
+252,Kordula Schulz-Asche,Greens,42,1
+252,Kordula Schulz-Asche,Greens,430,2
+252,Kordula Schulz-Asche,Greens,467,2
+252,Kordula Schulz-Asche,Greens,468,1
+252,Kordula Schulz-Asche,Greens,47,1
+252,Kordula Schulz-Asche,Greens,59,2
+253,Katharina Willkomm,FDP,17,1
+253,Katharina Willkomm,FDP,205,1
+253,Katharina Willkomm,FDP,208,1
+253,Katharina Willkomm,FDP,231,1
+253,Katharina Willkomm,FDP,237,1
+253,Katharina Willkomm,FDP,309,2
+253,Katharina Willkomm,FDP,356,1
+253,Katharina Willkomm,FDP,398,3
+253,Katharina Willkomm,FDP,428,2
+253,Katharina Willkomm,FDP,446,1
+253,Katharina Willkomm,FDP,479,4
+253,Katharina Willkomm,FDP,75,1
+253,Katharina Willkomm,FDP,83,3
+254,Oliver Kaczmarek,SPD,113,1
+254,Oliver Kaczmarek,SPD,162,1
+254,Oliver Kaczmarek,SPD,316,1
+254,Oliver Kaczmarek,SPD,395,1
+254,Oliver Kaczmarek,SPD,463,1
+255,Kai Whittaker,CDU,103,1
+255,Kai Whittaker,CDU,338,1
+255,Kai Whittaker,CDU,36,1
+255,Kai Whittaker,CDU,406,1
+255,Kai Whittaker,CDU,484,1
+255,Kai Whittaker,CDU,487,1
+255,Kai Whittaker,CDU,545,1
+256,Kai Gehring[210],Greens,106,1
+256,Kai Gehring[210],Greens,110,1
+256,Kai Gehring[210],Greens,177,1
+256,Kai Gehring[210],Greens,184,2
+256,Kai Gehring[210],Greens,225,2
+256,Kai Gehring[210],Greens,228,1
+256,Kai Gehring[210],Greens,264,2
+256,Kai Gehring[210],Greens,283,2
+256,Kai Gehring[210],Greens,284,1
+256,Kai Gehring[210],Greens,3,1
+256,Kai Gehring[210],Greens,338,1
+256,Kai Gehring[210],Greens,459,1
+256,Kai Gehring[210],Greens,486,1
+256,Kai Gehring[210],Greens,494,1
+256,Kai Gehring[210],Greens,59,1
+26,Andreas Scheuer,CSU,398,1
+26,Andreas Scheuer,CSU,406,1
+260,Karl Lauterbach,SPD,202,1
+260,Karl Lauterbach,SPD,228,1
+260,Karl Lauterbach,SPD,68,1
+263,Katharina Dröge,Greens,223,1
+263,Katharina Dröge,Greens,228,1
+263,Katharina Dröge,Greens,284,1
+263,Katharina Dröge,Greens,3,1
+263,Katharina Dröge,Greens,409,3
+263,Katharina Dröge,Greens,414,1
+264,Katja Dörner,Greens,177,1
+264,Katja Dörner,Greens,256,1
+264,Katja Dörner,Greens,323,1
+265,Katja Keul,Greens,59,1
+266,Katja Kipping,The Left,340,1
+266,Katja Kipping,The Left,90,1
+267,Katja Mast,SPD,21,1
+267,Katja Mast,SPD,215,1
+267,Katja Mast,SPD,386,1
+267,Katja Mast,SPD,463,3
+267,Katja Mast,SPD,464,2
+267,Katja Mast,SPD,532,1
+268,Katja Suding,FDP,225,2
+268,Katja Suding,FDP,32,1
+27,Andreas Steier,CDU,281,1
+270,Katrin Werner,The Left,298,1
+271,Katrin Helling-Plahr,FDP,184,2
+271,Katrin Helling-Plahr,FDP,228,1
+272,Kay Gottschalk,AfD,203,3
+272,Kay Gottschalk,AfD,247,1
+273,Klaus-Dieter Gröhler,CDU,376,1
+275,Kerstin Griese,SPD,118,4
+275,Kerstin Griese,SPD,119,2
+275,Kerstin Griese,SPD,166,1
+275,Kerstin Griese,SPD,202,1
+275,Kerstin Griese,SPD,203,1
+275,Kerstin Griese,SPD,215,1
+275,Kerstin Griese,SPD,228,1
+275,Kerstin Griese,SPD,237,3
+275,Kerstin Griese,SPD,259,1
+275,Kerstin Griese,SPD,283,1
+275,Kerstin Griese,SPD,288,1
+275,Kerstin Griese,SPD,290,3
+275,Kerstin Griese,SPD,316,1
+275,Kerstin Griese,SPD,333,1
+275,Kerstin Griese,SPD,335,1
+275,Kerstin Griese,SPD,355,1
+275,Kerstin Griese,SPD,363,2
+275,Kerstin Griese,SPD,393,1
+275,Kerstin Griese,SPD,42,7
+275,Kerstin Griese,SPD,502,3
+275,Kerstin Griese,SPD,78,2
+276,Jens Kestner,AfD,177,1
+276,Jens Kestner,AfD,260,1
+279,Kirsten Tackmann,The Left,143,3
+279,Kirsten Tackmann,The Left,223,1
+279,Kirsten Tackmann,The Left,234,1
+279,Kirsten Tackmann,The Left,294,1
+279,Kirsten Tackmann,The Left,298,1
+279,Kirsten Tackmann,The Left,32,1
+279,Kirsten Tackmann,The Left,331,1
+279,Kirsten Tackmann,The Left,385,12
+279,Kirsten Tackmann,The Left,47,3
+279,Kirsten Tackmann,The Left,479,10
+279,Kirsten Tackmann,The Left,484,1
+279,Kirsten Tackmann,The Left,90,1
+28,Andrej Hunko,The Left,298,2
+28,Andrej Hunko,The Left,414,2
+280,Klaus Mindrup,SPD,236,2
+280,Klaus Mindrup,SPD,260,1
+280,Klaus Mindrup,SPD,282,2
+281,Katja Leikert,CDU,103,1
+281,Katja Leikert,CDU,241,1
+281,Katja Leikert,CDU,284,1
+281,Katja Leikert,CDU,335,1
+281,Katja Leikert,CDU,376,1
+281,Katja Leikert,CDU,478,1
+281,Katja Leikert,CDU,540,1
+281,Katja Leikert,CDU,68,1
+282,Lukas Köhler,FDP,280,2
+282,Lukas Köhler,FDP,31,1
+282,Lukas Köhler,FDP,41,2
+282,Lukas Köhler,FDP,462,1
+283,Konstantin Kuhle,FDP,123,1
+283,Konstantin Kuhle,FDP,228,1
+283,Konstantin Kuhle,FDP,232,1
+283,Konstantin Kuhle,FDP,237,2
+283,Konstantin Kuhle,FDP,241,1
+283,Konstantin Kuhle,FDP,260,1
+283,Konstantin Kuhle,FDP,284,2
+283,Konstantin Kuhle,FDP,318,1
+283,Konstantin Kuhle,FDP,335,3
+283,Konstantin Kuhle,FDP,338,1
+283,Konstantin Kuhle,FDP,45,1
+283,Konstantin Kuhle,FDP,494,1
+283,Konstantin Kuhle,FDP,502,1
+283,Konstantin Kuhle,FDP,506,1
+283,Konstantin Kuhle,FDP,518,1
+283,Konstantin Kuhle,FDP,6,1
+283,Konstantin Kuhle,FDP,62,1
+284,Konstantin von Notz,Greens,295,1
+284,Konstantin von Notz,Greens,331,1
+284,Konstantin von Notz,Greens,335,1
+284,Konstantin von Notz,Greens,35,1
+284,Konstantin von Notz,Greens,494,1
+284,Konstantin von Notz,Greens,547,1
+284,Konstantin von Notz,Greens,62,1
+284,Konstantin von Notz,Greens,68,1
+284,Konstantin von Notz,Greens,97,1
+287,Kristina Nordt,CDU,84,1
+288,Alexander Graf Lambsdorff,FDP,116,1
+288,Alexander Graf Lambsdorff,FDP,142,4
+288,Alexander Graf Lambsdorff,FDP,143,2
+288,Alexander Graf Lambsdorff,FDP,193,1
+288,Alexander Graf Lambsdorff,FDP,237,1
+288,Alexander Graf Lambsdorff,FDP,264,8
+289,Lars Castellucci,SPD,10,1
+289,Lars Castellucci,SPD,215,1
+289,Lars Castellucci,SPD,340,1
+289,Lars Castellucci,SPD,47,1
+289,Lars Castellucci,SPD,61,1
+289,Lars Castellucci,SPD,96,1
+290,Lars Klingbeil,SPD,101,1
+290,Lars Klingbeil,SPD,113,1
+290,Lars Klingbeil,SPD,118,1
+290,Lars Klingbeil,SPD,316,1
+290,Lars Klingbeil,SPD,452,1
+290,Lars Klingbeil,SPD,47,1
+293,Leni Breymaier,SPD,139,1
+293,Leni Breymaier,SPD,141,1
+293,Leni Breymaier,SPD,334,1
+293,Leni Breymaier,SPD,36,1
+293,Leni Breymaier,SPD,406,1
+293,Leni Breymaier,SPD,437,1
+293,Leni Breymaier,SPD,68,1
+293,Leni Breymaier,SPD,78,1
+294,Lorenz Gösta Beutin,The Left,107,1
+294,Lorenz Gösta Beutin,The Left,203,1
+294,Lorenz Gösta Beutin,The Left,266,1
+294,Lorenz Gösta Beutin,The Left,279,1
+294,Lorenz Gösta Beutin,The Left,282,2
+294,Lorenz Gösta Beutin,The Left,283,1
+294,Lorenz Gösta Beutin,The Left,290,1
+294,Lorenz Gösta Beutin,The Left,298,1
+294,Lorenz Gösta Beutin,The Left,385,5
+294,Lorenz Gösta Beutin,The Left,459,1
+294,Lorenz Gösta Beutin,The Left,486,1
+294,Lorenz Gösta Beutin,The Left,498,3
+294,Lorenz Gösta Beutin,The Left,506,1
+294,Lorenz Gösta Beutin,The Left,556,1
+294,Lorenz Gösta Beutin,The Left,6,1
+294,Lorenz Gösta Beutin,The Left,90,1
+295,Canan Bayram,Greens,10,1
+295,Canan Bayram,Greens,35,1
+295,Canan Bayram,Greens,430,1
+295,Canan Bayram,Greens,547,1
+296,Linda Teuteberg,FDP,428,1
+297,Sören Pellmann,The Left,168,1
+297,Sören Pellmann,The Left,275,1
+297,Sören Pellmann,The Left,365,2
+297,Sören Pellmann,The Left,416,1
+298,Die Linke Bundestag,The Left,109,1
+298,Die Linke Bundestag,The Left,117,1
+298,Die Linke Bundestag,The Left,143,1
+298,Die Linke Bundestag,The Left,196,1
+298,Die Linke Bundestag,The Left,207,2
+298,Die Linke Bundestag,The Left,21,2
+298,Die Linke Bundestag,The Left,223,4
+298,Die Linke Bundestag,The Left,279,2
+298,Die Linke Bundestag,The Left,32,1
+298,Die Linke Bundestag,The Left,340,1
+298,Die Linke Bundestag,The Left,382,1
+298,Die Linke Bundestag,The Left,448,1
+298,Die Linke Bundestag,The Left,455,3
+298,Die Linke Bundestag,The Left,524,1
+298,Die Linke Bundestag,The Left,54,1
+299,Lisa Paus,Greens,143,1
+299,Lisa Paus,Greens,184,1
+299,Lisa Paus,Greens,217,1
+299,Lisa Paus,Greens,309,1
+3,Annalena Baerbock,Greens,146,1
+3,Annalena Baerbock,Greens,264,3
+3,Annalena Baerbock,Greens,268,1
+3,Annalena Baerbock,Greens,309,1
+3,Annalena Baerbock,Greens,78,1
+300,Gesine Lötzsch,The Left,47,2
+301,Lothar Binding,SPD,139,1
+303,Martin Reichardt,AfD,139,3
+303,Martin Reichardt,AfD,177,1
+303,Martin Reichardt,AfD,260,2
+303,Martin Reichardt,AfD,316,1
+304,Marianne Schieder,SPD,202,2
+304,Marianne Schieder,SPD,215,3
+304,Marianne Schieder,SPD,280,1
+304,Marianne Schieder,SPD,289,2
+304,Marianne Schieder,SPD,363,2
+304,Marianne Schieder,SPD,373,1
+304,Marianne Schieder,SPD,393,2
+304,Marianne Schieder,SPD,395,1
+304,Marianne Schieder,SPD,409,3
+304,Marianne Schieder,SPD,43,2
+304,Marianne Schieder,SPD,452,1
+304,Marianne Schieder,SPD,453,1
+304,Marianne Schieder,SPD,463,6
+304,Marianne Schieder,SPD,464,4
+304,Marianne Schieder,SPD,503,1
+304,Marianne Schieder,SPD,52,1
+304,Marianne Schieder,SPD,526,3
+304,Marianne Schieder,SPD,59,1
+305,Karin Maag,CDU,180,1
+305,Karin Maag,CDU,228,1
+305,Karin Maag,CDU,252,1
+305,Karin Maag,CDU,281,1
+305,Karin Maag,CDU,323,1
+305,Karin Maag,CDU,409,1
+305,Karin Maag,CDU,42,3
+305,Karin Maag,CDU,459,1
+305,Karin Maag,CDU,547,1
+305,Karin Maag,CDU,77,1
+305,Karin Maag,CDU,99,1
+306,Maik Beermann,CDU,139,2
+306,Maik Beermann,CDU,228,1
+306,Maik Beermann,CDU,255,1
+306,Maik Beermann,CDU,283,1
+306,Maik Beermann,CDU,310,1
+306,Maik Beermann,CDU,395,1
+306,Maik Beermann,CDU,78,1
+307,Gisela Manderla,CDU,228,1
+309,Manuela Rottmann,Greens,110,1
+309,Manuela Rottmann,Greens,115,5
+309,Manuela Rottmann,Greens,131,3
+309,Manuela Rottmann,Greens,177,2
+309,Manuela Rottmann,Greens,182,2
+309,Manuela Rottmann,Greens,184,1
+309,Manuela Rottmann,Greens,208,2
+309,Manuela Rottmann,Greens,252,4
+309,Manuela Rottmann,Greens,253,1
+309,Manuela Rottmann,Greens,260,1
+309,Manuela Rottmann,Greens,283,2
+309,Manuela Rottmann,Greens,311,1
+309,Manuela Rottmann,Greens,335,1
+309,Manuela Rottmann,Greens,430,3
+309,Manuela Rottmann,Greens,468,1
+309,Manuela Rottmann,Greens,480,2
+309,Manuela Rottmann,Greens,540,1
+309,Manuela Rottmann,Greens,59,3
+309,Manuela Rottmann,Greens,77,1
+309,Manuela Rottmann,Greens,78,2
+309,Manuela Rottmann,Greens,94,1
+31,Anja Weisgerber,CSU,282,1
+310,Manuel Höferlin,FDP,149,1
+314,Marc Henrichmann,CDU,354,1
+314,Marc Henrichmann,CDU,479,1
+316,Marco Buschmann,FDP,139,2
+316,Marco Buschmann,FDP,147,1
+316,Marco Buschmann,FDP,149,2
+316,Marco Buschmann,FDP,232,1
+316,Marco Buschmann,FDP,271,1
+316,Marco Buschmann,FDP,282,1
+316,Marco Buschmann,FDP,283,1
+316,Marco Buschmann,FDP,284,1
+316,Marco Buschmann,FDP,354,2
+316,Marco Buschmann,FDP,356,1
+316,Marco Buschmann,FDP,395,1
+316,Marco Buschmann,FDP,409,1
+316,Marco Buschmann,FDP,462,1
+316,Marco Buschmann,FDP,467,1
+316,Marco Buschmann,FDP,527,1
+316,Marco Buschmann,FDP,59,1
+316,Marco Buschmann,FDP,68,3
+318,Marcus Faber,FDP,340,2
+318,Marcus Faber,FDP,56,1
+32,Anke Domscheit-Berg,The Left,139,1
+32,Anke Domscheit-Berg,The Left,203,1
+32,Anke Domscheit-Berg,The Left,294,1
+32,Anke Domscheit-Berg,The Left,297,1
+32,Anke Domscheit-Berg,The Left,340,1
+32,Anke Domscheit-Berg,The Left,494,1
+32,Anke Domscheit-Berg,The Left,90,1
+321,Margarete Bause,Greens,309,1
+321,Margarete Bause,Greens,494,1
+322,Margit Stumpp,Greens,10,1
+322,Margit Stumpp,Greens,331,1
+322,Margit Stumpp,Greens,409,1
+323,Maria Klein-Schmeink,Greens,115,2
+323,Maria Klein-Schmeink,Greens,121,1
+323,Maria Klein-Schmeink,Greens,131,1
+323,Maria Klein-Schmeink,Greens,138,1
+323,Maria Klein-Schmeink,Greens,147,1
+323,Maria Klein-Schmeink,Greens,184,1
+323,Maria Klein-Schmeink,Greens,228,9
+323,Maria Klein-Schmeink,Greens,249,1
+323,Maria Klein-Schmeink,Greens,252,11
+323,Maria Klein-Schmeink,Greens,264,7
+323,Maria Klein-Schmeink,Greens,284,1
+323,Maria Klein-Schmeink,Greens,3,1
+323,Maria Klein-Schmeink,Greens,305,1
+323,Maria Klein-Schmeink,Greens,337,1
+323,Maria Klein-Schmeink,Greens,397,1
+323,Maria Klein-Schmeink,Greens,430,2
+323,Maria Klein-Schmeink,Greens,480,1
+323,Maria Klein-Schmeink,Greens,487,1
+323,Maria Klein-Schmeink,Greens,492,1
+323,Maria Klein-Schmeink,Greens,500,1
+323,Maria Klein-Schmeink,Greens,513,1
+323,Maria Klein-Schmeink,Greens,545,1
+323,Maria Klein-Schmeink,Greens,550,1
+323,Maria Klein-Schmeink,Greens,59,1
+323,Maria Klein-Schmeink,Greens,78,1
+324,Marian Wendt,CDU,177,1
+324,Marian Wendt,CDU,284,1
+324,Marian Wendt,CDU,376,1
+324,Marian Wendt,CDU,385,1
+324,Marian Wendt,CDU,409,1
+324,Marian Wendt,CDU,437,1
+324,Marian Wendt,CDU,459,1
+324,Marian Wendt,CDU,473,2
+324,Marian Wendt,CDU,480,1
+325,Marja-Liisa Völlers,SPD,101,1
+325,Marja-Liisa Völlers,SPD,118,1
+325,Marja-Liisa Völlers,SPD,166,3
+325,Marja-Liisa Völlers,SPD,215,1
+325,Marja-Liisa Völlers,SPD,254,1
+325,Marja-Liisa Völlers,SPD,259,1
+325,Marja-Liisa Völlers,SPD,463,1
+325,Marja-Liisa Völlers,SPD,465,1
+325,Marja-Liisa Völlers,SPD,483,1
+325,Marja-Liisa Völlers,SPD,506,1
+325,Marja-Liisa Völlers,SPD,96,1
+326,Markus Kurth,Greens,184,1
+326,Markus Kurth,Greens,406,1
+33,Anna Christmann,Greens,115,2
+33,Anna Christmann,Greens,184,1
+33,Anna Christmann,Greens,3,1
+330,Martin Sichert,AfD,115,1
+330,Martin Sichert,AfD,247,1
+330,Martin Sichert,AfD,335,1
+330,Martin Sichert,AfD,513,1
+330,Martin Sichert,AfD,68,1
+331,Martina Renner,The Left,139,1
+331,Martina Renner,The Left,15,1
+331,Martina Renner,The Left,218,2
+331,Martina Renner,The Left,283,1
+331,Martina Renner,The Left,284,1
+331,Martina Renner,The Left,385,2
+331,Martina Renner,The Left,416,1
+331,Martina Renner,The Left,463,1
+331,Martina Renner,The Left,62,4
+331,Martina Renner,The Left,71,2
+333,Martin Rosemann,SPD,293,1
+333,Martin Rosemann,SPD,352,1
+333,Martin Rosemann,SPD,395,2
+333,Martin Rosemann,SPD,42,2
+333,Martin Rosemann,SPD,78,2
+335,Marie-Agnes Strack-Zimmermann,FDP,1,1
+335,Marie-Agnes Strack-Zimmermann,FDP,10,1
+335,Marie-Agnes Strack-Zimmermann,FDP,101,2
+335,Marie-Agnes Strack-Zimmermann,FDP,104,1
+335,Marie-Agnes Strack-Zimmermann,FDP,141,1
+335,Marie-Agnes Strack-Zimmermann,FDP,166,6
+335,Marie-Agnes Strack-Zimmermann,FDP,182,1
+335,Marie-Agnes Strack-Zimmermann,FDP,213,1
+335,Marie-Agnes Strack-Zimmermann,FDP,237,3
+335,Marie-Agnes Strack-Zimmermann,FDP,241,1
+335,Marie-Agnes Strack-Zimmermann,FDP,253,1
+335,Marie-Agnes Strack-Zimmermann,FDP,268,1
+335,Marie-Agnes Strack-Zimmermann,FDP,283,2
+335,Marie-Agnes Strack-Zimmermann,FDP,284,1
+335,Marie-Agnes Strack-Zimmermann,FDP,288,1
+335,Marie-Agnes Strack-Zimmermann,FDP,290,1
+335,Marie-Agnes Strack-Zimmermann,FDP,338,2
+335,Marie-Agnes Strack-Zimmermann,FDP,376,1
+335,Marie-Agnes Strack-Zimmermann,FDP,414,1
+335,Marie-Agnes Strack-Zimmermann,FDP,437,1
+335,Marie-Agnes Strack-Zimmermann,FDP,457,1
+335,Marie-Agnes Strack-Zimmermann,FDP,467,2
+335,Marie-Agnes Strack-Zimmermann,FDP,494,1
+335,Marie-Agnes Strack-Zimmermann,FDP,502,8
+335,Marie-Agnes Strack-Zimmermann,FDP,509,3
+335,Marie-Agnes Strack-Zimmermann,FDP,510,2
+335,Marie-Agnes Strack-Zimmermann,FDP,523,1
+335,Marie-Agnes Strack-Zimmermann,FDP,59,1
+335,Marie-Agnes Strack-Zimmermann,FDP,8,2
+335,Marie-Agnes Strack-Zimmermann,FDP,99,1
+336,Christoph Matschie,SPD,259,1
+337,Matthias Gastel,Greens,177,1
+337,Matthias Gastel,Greens,430,1
+337,Matthias Gastel,Greens,509,1
+337,Matthias Gastel,Greens,78,1
+338,Matthias Hauer,CDU,119,2
+338,Matthias Hauer,CDU,138,1
+338,Matthias Hauer,CDU,139,3
+338,Matthias Hauer,CDU,143,9
+338,Matthias Hauer,CDU,147,1
+338,Matthias Hauer,CDU,155,1
+338,Matthias Hauer,CDU,177,1
+338,Matthias Hauer,CDU,193,1
+338,Matthias Hauer,CDU,241,2
+338,Matthias Hauer,CDU,284,1
+338,Matthias Hauer,CDU,290,2
+338,Matthias Hauer,CDU,34,2
+338,Matthias Hauer,CDU,352,2
+338,Matthias Hauer,CDU,354,1
+338,Matthias Hauer,CDU,406,2
+338,Matthias Hauer,CDU,408,1
+338,Matthias Hauer,CDU,444,1
+338,Matthias Hauer,CDU,45,1
+338,Matthias Hauer,CDU,453,3
+338,Matthias Hauer,CDU,459,2
+338,Matthias Hauer,CDU,468,1
+338,Matthias Hauer,CDU,479,5
+338,Matthias Hauer,CDU,480,1
+338,Matthias Hauer,CDU,507,1
+338,Matthias Hauer,CDU,518,1
+338,Matthias Hauer,CDU,547,1
+338,Matthias Hauer,CDU,59,3
+338,Matthias Hauer,CDU,68,1
+338,Matthias Hauer,CDU,7,1
+338,Matthias Hauer,CDU,8,4
+34,Antje Tillmann,CDU,338,1
+34,Antje Tillmann,CDU,77,1
+340,Matthias Höhn,The Left,10,1
+340,Matthias Höhn,The Left,166,1
+340,Matthias Höhn,The Left,266,1
+340,Matthias Höhn,The Left,502,1
+341,Matthias Nölke,FDP,428,1
+342,Marc Biadacz,CDU,473,1
+344,Eva Schreiber,The Left,107,1
+346,Karsten Klein,FDP,142,1
+346,Karsten Klein,FDP,228,2
+35,Armin Schuster,CDU,176,1
+35,Armin Schuster,CDU,284,1
+35,Armin Schuster,CDU,473,1
+351,Michael Meister,CDU,180,1
+351,Michael Meister,CDU,396,1
+351,Michael Meister,CDU,517,1
+352,Metin Hakverdi,SPD,118,1
+352,Metin Hakverdi,SPD,166,3
+352,Metin Hakverdi,SPD,202,1
+352,Metin Hakverdi,SPD,250,1
+352,Metin Hakverdi,SPD,338,3
+352,Metin Hakverdi,SPD,376,1
+352,Metin Hakverdi,SPD,386,1
+352,Metin Hakverdi,SPD,395,2
+352,Metin Hakverdi,SPD,453,1
+352,Metin Hakverdi,SPD,465,2
+352,Metin Hakverdi,SPD,47,1
+352,Metin Hakverdi,SPD,68,1
+352,Metin Hakverdi,SPD,70,1
+353,Christoph Meyer,FDP,139,1
+353,Christoph Meyer,FDP,177,1
+353,Christoph Meyer,FDP,295,1
+353,Christoph Meyer,FDP,300,1
+353,Christoph Meyer,FDP,316,1
+353,Christoph Meyer,FDP,399,1
+353,Christoph Meyer,FDP,46,1
+353,Christoph Meyer,FDP,47,1
+353,Christoph Meyer,FDP,494,1
+354,Michael Grosse-Brömer,CDU,103,1
+354,Michael Grosse-Brömer,CDU,110,1
+354,Michael Grosse-Brömer,CDU,115,1
+354,Michael Grosse-Brömer,CDU,138,1
+354,Michael Grosse-Brömer,CDU,151,1
+354,Michael Grosse-Brömer,CDU,180,1
+354,Michael Grosse-Brömer,CDU,193,1
+354,Michael Grosse-Brömer,CDU,223,4
+354,Michael Grosse-Brömer,CDU,248,1
+354,Michael Grosse-Brömer,CDU,316,6
+354,Michael Grosse-Brömer,CDU,335,1
+354,Michael Grosse-Brömer,CDU,338,1
+354,Michael Grosse-Brömer,CDU,399,2
+354,Michael Grosse-Brömer,CDU,416,1
+354,Michael Grosse-Brömer,CDU,42,1
+354,Michael Grosse-Brömer,CDU,423,1
+354,Michael Grosse-Brömer,CDU,446,1
+354,Michael Grosse-Brömer,CDU,459,1
+354,Michael Grosse-Brömer,CDU,460,1
+354,Michael Grosse-Brömer,CDU,465,1
+354,Michael Grosse-Brömer,CDU,473,2
+354,Michael Grosse-Brömer,CDU,479,6
+354,Michael Grosse-Brömer,CDU,498,1
+354,Michael Grosse-Brömer,CDU,547,2
+354,Michael Grosse-Brömer,CDU,59,1
+355,Michelle Müntefering,SPD,113,1
+355,Michelle Müntefering,SPD,118,1
+355,Michelle Müntefering,SPD,250,1
+355,Michelle Müntefering,SPD,259,3
+355,Michelle Müntefering,SPD,363,1
+355,Michelle Müntefering,SPD,373,1
+355,Michelle Müntefering,SPD,42,1
+355,Michelle Müntefering,SPD,453,1
+355,Michelle Müntefering,SPD,463,1
+355,Michelle Müntefering,SPD,96,1
+357,Michael Thews,SPD,395,2
+357,Michael Thews,SPD,463,1
+36,Annette Widmann-Mauz,CDU,293,1
+36,Annette Widmann-Mauz,CDU,414,1
+361,Michel Brandt,The Left,202,1
+361,Michel Brandt,The Left,298,1
+363,Michael Roth,SPD,113,2
+363,Michael Roth,SPD,166,2
+363,Michael Roth,SPD,229,3
+363,Michael Roth,SPD,393,3
+363,Michael Roth,SPD,395,1
+363,Michael Roth,SPD,398,2
+363,Michael Roth,SPD,452,1
+363,Michael Roth,SPD,463,1
+363,Michael Roth,SPD,47,4
+363,Michael Roth,SPD,502,2
+363,Michael Roth,SPD,506,1
+363,Michael Roth,SPD,547,3
+364,Michael Schrodi,SPD,143,2
+364,Michael Schrodi,SPD,395,1
+364,Michael Schrodi,SPD,4,1
+365,Monika Lazar,Greens,153,1
+365,Monika Lazar,Greens,264,1
+365,Monika Lazar,Greens,297,2
+365,Monika Lazar,Greens,430,2
+365,Monika Lazar,Greens,480,1
+365,Monika Lazar,Greens,486,2
+365,Monika Lazar,Greens,59,1
+365,Monika Lazar,Greens,98,3
+366,Martin Patzelt,CDU,45,2
+367,Andreas Mrosek,AfD,232,1
+367,Andreas Mrosek,AfD,329,1
+367,Andreas Mrosek,AfD,406,1
+367,Andreas Mrosek,AfD,468,1
+369,Manfred Todtenhausen,FDP,467,1
+371,Sepp Müller,CDU,351,1
+371,Sepp Müller,CDU,354,1
+371,Sepp Müller,CDU,374,1
+371,Sepp Müller,CDU,547,1
+371,Sepp Müller,CDU,77,1
+371,Sepp Müller,CDU,84,1
+373,Detlef Müller,SPD,24,1
+373,Detlef Müller,SPD,393,1
+373,Detlef Müller,SPD,395,1
+373,Detlef Müller,SPD,42,1
+373,Detlef Müller,SPD,453,1
+373,Detlef Müller,SPD,461,1
+373,Detlef Müller,SPD,464,1
+373,Detlef Müller,SPD,465,3
+373,Detlef Müller,SPD,547,1
+373,Detlef Müller,SPD,78,1
+373,Detlef Müller,SPD,84,1
+374,Michael von Abercron,CDU,139,1
+374,Michael von Abercron,CDU,143,1
+374,Michael von Abercron,CDU,463,1
+376,Norbert Röttgen,CDU,27,1
+376,Norbert Röttgen,CDU,283,1
+377,Nadine Schön,CDU,269,1
+377,Nadine Schön,CDU,398,1
+377,Nadine Schön,CDU,509,1
+377,Nadine Schön,CDU,517,1
+377,Nadine Schön,CDU,77,1
+380,Nicole Bauer,FDP,467,2
+382,Nicole Gohlke,The Left,110,1
+383,Nicole Westig,FDP,182,1
+383,Nicole Westig,FDP,252,1
+383,Nicole Westig,FDP,356,1
+383,Nicole Westig,FDP,398,1
+383,Nicole Westig,FDP,83,1
+384,Niels Annen,SPD,118,1
+384,Niels Annen,SPD,166,1
+384,Niels Annen,SPD,248,1
+384,Niels Annen,SPD,393,1
+384,Niels Annen,SPD,526,1
+384,Niels Annen,SPD,75,1
+385,Niema Movassat,The Left,107,1
+385,Niema Movassat,The Left,110,1
+385,Niema Movassat,The Left,143,2
+385,Niema Movassat,The Left,15,1
+385,Niema Movassat,The Left,168,2
+385,Niema Movassat,The Left,193,1
+385,Niema Movassat,The Left,232,1
+385,Niema Movassat,The Left,290,1
+385,Niema Movassat,The Left,296,1
+385,Niema Movassat,The Left,32,2
+385,Niema Movassat,The Left,331,3
+385,Niema Movassat,The Left,338,1
+385,Niema Movassat,The Left,375,1
+385,Niema Movassat,The Left,448,1
+385,Niema Movassat,The Left,459,1
+385,Niema Movassat,The Left,509,1
+385,Niema Movassat,The Left,539,6
+385,Niema Movassat,The Left,553,2
+385,Niema Movassat,The Left,62,1
+385,Niema Movassat,The Left,71,1
+385,Niema Movassat,The Left,86,2
+385,Niema Movassat,The Left,94,1
+385,Niema Movassat,The Left,99,12
+386,Nils Schmid,SPD,203,1
+388,Nina Warken,CDU,396,1
+390,Norbert Müller,The Left,279,1
+390,Norbert Müller,The Left,77,1
+391,Omid Nouripour,Greens,202,2
+391,Omid Nouripour,Greens,244,1
+391,Omid Nouripour,Greens,3,1
+392,Mahmut Özdemir,SPD,166,1
+393,Aydan Özoğuz,SPD,118,1
+393,Aydan Özoğuz,SPD,139,2
+393,Aydan Özoğuz,SPD,275,1
+393,Aydan Özoğuz,SPD,304,2
+393,Aydan Özoğuz,SPD,325,1
+393,Aydan Özoğuz,SPD,352,1
+393,Aydan Özoğuz,SPD,363,6
+393,Aydan Özoğuz,SPD,373,3
+393,Aydan Özoğuz,SPD,384,1
+393,Aydan Özoğuz,SPD,395,1
+393,Aydan Özoğuz,SPD,465,3
+393,Aydan Özoğuz,SPD,502,4
+393,Aydan Özoğuz,SPD,512,1
+393,Aydan Özoğuz,SPD,522,1
+393,Aydan Özoğuz,SPD,526,1
+393,Aydan Özoğuz,SPD,78,2
+393,Aydan Özoğuz,SPD,96,2
+394,Olaf in der Beek,FDP,259,1
+394,Olaf in der Beek,FDP,283,1
+394,Olaf in der Beek,FDP,462,1
+395,Olaf Scholz,SPD,203,1
+396,Olav Gutting,CDU,371,1
+396,Olav Gutting,CDU,75,1
+397,Oliver Krischer,Greens,177,1
+397,Oliver Krischer,Greens,430,1
+397,Oliver Krischer,Greens,59,1
+398,Oliver Luksic,FDP,104,1
+398,Oliver Luksic,FDP,149,3
+398,Oliver Luksic,FDP,166,2
+398,Oliver Luksic,FDP,17,1
+398,Oliver Luksic,FDP,177,1
+398,Oliver Luksic,FDP,193,1
+398,Oliver Luksic,FDP,228,1
+398,Oliver Luksic,FDP,260,4
+398,Oliver Luksic,FDP,271,1
+398,Oliver Luksic,FDP,283,1
+398,Oliver Luksic,FDP,288,1
+398,Oliver Luksic,FDP,363,1
+398,Oliver Luksic,FDP,399,1
+398,Oliver Luksic,FDP,409,2
+398,Oliver Luksic,FDP,414,1
+398,Oliver Luksic,FDP,430,1
+398,Oliver Luksic,FDP,433,1
+398,Oliver Luksic,FDP,480,1
+398,Oliver Luksic,FDP,483,1
+398,Oliver Luksic,FDP,486,1
+398,Oliver Luksic,FDP,540,1
+398,Oliver Luksic,FDP,68,3
+398,Oliver Luksic,FDP,78,2
+398,Oliver Luksic,FDP,83,1
+399,Otto Fricke,FDP,101,4
+399,Otto Fricke,FDP,110,1
+399,Otto Fricke,FDP,139,1
+399,Otto Fricke,FDP,143,2
+399,Otto Fricke,FDP,205,2
+399,Otto Fricke,FDP,212,2
+399,Otto Fricke,FDP,398,1
+399,Otto Fricke,FDP,426,1
+399,Otto Fricke,FDP,433,1
+399,Otto Fricke,FDP,453,1
+399,Otto Fricke,FDP,462,1
+399,Otto Fricke,FDP,486,10
+399,Otto Fricke,FDP,494,1
+399,Otto Fricke,FDP,510,1
+399,Otto Fricke,FDP,539,1
+399,Otto Fricke,FDP,547,5
+4,Achim Post,SPD,142,1
+4,Achim Post,SPD,70,1
+400,Ottmar von Holtz,Greens,428,1
+402,Pascal Meiser,The Left,452,1
+402,Pascal Meiser,The Left,47,1
+403,Patrick Sensburg,CDU,109,1
+408,Peter Stein,CDU,103,2
+408,Peter Stein,CDU,182,1
+408,Peter Stein,CDU,255,3
+408,Peter Stein,CDU,338,2
+408,Peter Stein,CDU,376,1
+408,Peter Stein,CDU,398,1
+408,Peter Stein,CDU,414,3
+408,Peter Stein,CDU,470,3
+408,Peter Stein,CDU,479,1
+408,Peter Stein,CDU,50,1
+409,Peter Altmaier,CDU,142,1
+409,Peter Altmaier,CDU,237,1
+409,Peter Altmaier,CDU,304,2
+409,Peter Altmaier,CDU,398,1
+409,Peter Altmaier,CDU,426,2
+41,Lisa Badum,Greens,184,1
+41,Lisa Badum,Greens,282,4
+41,Lisa Badum,Greens,44,1
+41,Lisa Badum,Greens,53,1
+412,Peter Felser,AfD,97,1
+413,Peter Heidt,FDP,212,1
+413,Peter Heidt,FDP,68,1
+414,Peter Tauber,CDU,10,1
+414,Peter Tauber,CDU,166,1
+414,Peter Tauber,CDU,193,1
+414,Peter Tauber,CDU,260,1
+414,Peter Tauber,CDU,28,1
+414,Peter Tauber,CDU,290,1
+416,Petra Sitte,The Left,331,1
+416,Petra Sitte,The Left,354,3
+416,Petra Sitte,The Left,382,1
+417,Petra Pau,The Left,284,1
+417,Petra Pau,The Left,47,1
+418,Petr Bystron,AfD,107,1
+418,Petr Bystron,AfD,147,2
+418,Petr Bystron,AfD,244,1
+42,Bärbel Bas,SPD,139,1
+42,Bärbel Bas,SPD,177,1
+42,Bärbel Bas,SPD,203,1
+42,Bärbel Bas,SPD,259,1
+42,Bärbel Bas,SPD,260,1
+42,Bärbel Bas,SPD,275,2
+42,Bärbel Bas,SPD,305,1
+42,Bärbel Bas,SPD,323,1
+42,Bärbel Bas,SPD,333,1
+42,Bärbel Bas,SPD,354,3
+42,Bärbel Bas,SPD,355,1
+42,Bärbel Bas,SPD,393,1
+42,Bärbel Bas,SPD,395,1
+42,Bärbel Bas,SPD,463,1
+42,Bärbel Bas,SPD,483,1
+42,Bärbel Bas,SPD,502,1
+420,Jürgen Pohl,AfD,159,1
+420,Jürgen Pohl,AfD,317,1
+423,Patrick Schnieder,CDU,354,1
+428,Hagen Reinhold,FDP,149,2
+428,Hagen Reinhold,FDP,237,1
+428,Hagen Reinhold,FDP,296,1
+428,Hagen Reinhold,FDP,316,1
+428,Hagen Reinhold,FDP,341,1
+428,Hagen Reinhold,FDP,395,1
+428,Hagen Reinhold,FDP,62,1
+428,Hagen Reinhold,FDP,68,1
+428,Hagen Reinhold,FDP,82,1
+430,Renate Künast,Greens,100,1
+430,Renate Künast,Greens,106,1
+430,Renate Künast,Greens,115,4
+430,Renate Künast,Greens,119,1
+430,Renate Künast,Greens,131,2
+430,Renate Künast,Greens,139,1
+430,Renate Künast,Greens,168,1
+430,Renate Künast,Greens,176,1
+430,Renate Künast,Greens,182,1
+430,Renate Künast,Greens,184,1
+430,Renate Künast,Greens,218,1
+430,Renate Künast,Greens,228,1
+430,Renate Künast,Greens,231,3
+430,Renate Künast,Greens,244,1
+430,Renate Künast,Greens,252,3
+430,Renate Künast,Greens,259,1
+430,Renate Künast,Greens,264,3
+430,Renate Künast,Greens,283,5
+430,Renate Künast,Greens,284,1
+430,Renate Künast,Greens,3,1
+430,Renate Künast,Greens,309,7
+430,Renate Künast,Greens,32,1
+430,Renate Künast,Greens,323,1
+430,Renate Künast,Greens,337,2
+430,Renate Künast,Greens,397,4
+430,Renate Künast,Greens,409,1
+430,Renate Künast,Greens,468,1
+430,Renate Künast,Greens,469,1
+430,Renate Künast,Greens,47,1
+430,Renate Künast,Greens,476,3
+430,Renate Künast,Greens,480,1
+430,Renate Künast,Greens,486,2
+432,Martin Renner,AfD,381,1
+432,Martin Renner,AfD,6,1
+433,Bernd Reuther,FDP,149,1
+433,Bernd Reuther,FDP,509,1
+433,Bernd Reuther,FDP,78,1
+434,Rita Schwarzelühr-Sutter,SPD,259,1
+434,Rita Schwarzelühr-Sutter,SPD,333,1
+434,Rita Schwarzelühr-Sutter,SPD,68,1
+434,Rita Schwarzelühr-Sutter,SPD,74,1
+437,Roderich Kiesewetter,CDU,139,2
+437,Roderich Kiesewetter,CDU,166,1
+437,Roderich Kiesewetter,CDU,184,1
+437,Roderich Kiesewetter,CDU,242,1
+437,Roderich Kiesewetter,CDU,335,1
+437,Roderich Kiesewetter,CDU,338,1
+437,Roderich Kiesewetter,CDU,376,2
+437,Roderich Kiesewetter,CDU,399,1
+437,Roderich Kiesewetter,CDU,407,1
+437,Roderich Kiesewetter,CDU,409,1
+437,Roderich Kiesewetter,CDU,414,1
+437,Roderich Kiesewetter,CDU,470,1
+437,Roderich Kiesewetter,CDU,547,2
+438,Ronja Kemmer,CDU,377,1
+441,Sarah Ryglewski,SPD,166,1
+441,Sarah Ryglewski,SPD,259,1
+441,Sarah Ryglewski,SPD,338,1
+441,Sarah Ryglewski,SPD,47,1
+443,Stefan Schwartze,SPD,465,1
+444,Sabine Leidig,The Left,110,1
+444,Sabine Leidig,The Left,266,1
+446,Sandra Weeser,FDP,141,1
+446,Sandra Weeser,FDP,142,1
+446,Sandra Weeser,FDP,177,1
+446,Sandra Weeser,FDP,253,1
+446,Sandra Weeser,FDP,283,1
+446,Sandra Weeser,FDP,354,1
+446,Sandra Weeser,FDP,376,1
+446,Sandra Weeser,FDP,467,2
+446,Sandra Weeser,FDP,67,1
+446,Sandra Weeser,FDP,68,1
+446,Sandra Weeser,FDP,8,1
+447,Saskia Ludwig,CDU,193,1
+448,Simone Barrientos,The Left,259,1
+448,Simone Barrientos,The Left,298,1
+45,Beatrix von Storch,AfD,468,1
+451,Jörg Schneider,AfD,232,1
+452,Carsten Schneider,SPD,180,1
+452,Carsten Schneider,SPD,290,1
+452,Carsten Schneider,SPD,316,1
+452,Carsten Schneider,SPD,46,1
+452,Carsten Schneider,SPD,47,1
+453,Andreas Schwarz,SPD,101,2
+453,Andreas Schwarz,SPD,113,1
+453,Andreas Schwarz,SPD,215,2
+453,Andreas Schwarz,SPD,223,1
+453,Andreas Schwarz,SPD,229,1
+453,Andreas Schwarz,SPD,250,2
+453,Andreas Schwarz,SPD,259,1
+453,Andreas Schwarz,SPD,280,1
+453,Andreas Schwarz,SPD,290,1
+453,Andreas Schwarz,SPD,293,1
+453,Andreas Schwarz,SPD,333,5
+453,Andreas Schwarz,SPD,338,1
+453,Andreas Schwarz,SPD,364,1
+453,Andreas Schwarz,SPD,384,1
+453,Andreas Schwarz,SPD,395,3
+453,Andreas Schwarz,SPD,399,1
+453,Andreas Schwarz,SPD,4,2
+453,Andreas Schwarz,SPD,42,2
+453,Andreas Schwarz,SPD,452,1
+453,Andreas Schwarz,SPD,457,1
+453,Andreas Schwarz,SPD,463,3
+453,Andreas Schwarz,SPD,464,1
+453,Andreas Schwarz,SPD,465,1
+453,Andreas Schwarz,SPD,52,1
+453,Andreas Schwarz,SPD,59,1
+453,Andreas Schwarz,SPD,74,1
+454,Sebastian Hartmann,SPD,103,3
+454,Sebastian Hartmann,SPD,119,1
+454,Sebastian Hartmann,SPD,177,1
+454,Sebastian Hartmann,SPD,229,2
+454,Sebastian Hartmann,SPD,290,1
+454,Sebastian Hartmann,SPD,352,2
+454,Sebastian Hartmann,SPD,395,1
+457,Siemtje Möller,SPD,193,1
+458,Thomas Silberhorn,CSU,193,1
+458,Thomas Silberhorn,CSU,228,1
+458,Thomas Silberhorn,CSU,478,1
+459,Stefan Müller,CSU,177,1
+459,Stefan Müller,CSU,241,1
+459,Stefan Müller,CSU,260,1
+459,Stefan Müller,CSU,335,1
+459,Stefan Müller,CSU,47,2
+459,Stefan Müller,CSU,8,1
+46,Bela Bach,SPD,177,1
+46,Bela Bach,SPD,463,1
+460,Sönke Rix,SPD,166,1
+460,Sönke Rix,SPD,209,1
+460,Sönke Rix,SPD,260,1
+460,Sönke Rix,SPD,264,1
+460,Sönke Rix,SPD,290,3
+460,Sönke Rix,SPD,316,1
+460,Sönke Rix,SPD,354,3
+460,Sönke Rix,SPD,403,1
+460,Sönke Rix,SPD,42,1
+460,Sönke Rix,SPD,487,1
+460,Sönke Rix,SPD,68,2
+461,Sören Bartol,SPD,110,1
+461,Sören Bartol,SPD,119,1
+461,Sören Bartol,SPD,260,1
+461,Sören Bartol,SPD,281,1
+461,Sören Bartol,SPD,335,1
+461,Sören Bartol,SPD,373,1
+461,Sören Bartol,SPD,395,1
+461,Sören Bartol,SPD,414,1
+461,Sören Bartol,SPD,483,1
+461,Sören Bartol,SPD,486,1
+461,Sören Bartol,SPD,506,1
+461,Sören Bartol,SPD,509,1
+461,Sören Bartol,SPD,537,1
+461,Sören Bartol,SPD,82,1
+461,Sören Bartol,SPD,98,1
+463,SPD Bundestag,SPD,113,1
+463,SPD Bundestag,SPD,114,1
+463,SPD Bundestag,SPD,139,2
+463,SPD Bundestag,SPD,162,1
+463,SPD Bundestag,SPD,172,1
+463,SPD Bundestag,SPD,203,1
+463,SPD Bundestag,SPD,229,1
+463,SPD Bundestag,SPD,236,1
+463,SPD Bundestag,SPD,254,2
+463,SPD Bundestag,SPD,260,1
+463,SPD Bundestag,SPD,267,1
+463,SPD Bundestag,SPD,327,3
+463,SPD Bundestag,SPD,373,1
+463,SPD Bundestag,SPD,386,2
+463,SPD Bundestag,SPD,409,1
+463,SPD Bundestag,SPD,42,4
+463,SPD Bundestag,SPD,452,1
+463,SPD Bundestag,SPD,460,1
+463,SPD Bundestag,SPD,461,1
+463,SPD Bundestag,SPD,522,1
+463,SPD Bundestag,SPD,98,1
+464,SPD,SPD,202,2
+464,SPD,SPD,290,1
+464,SPD,SPD,395,4
+465,Svenja Stadler,SPD,101,1
+465,Svenja Stadler,SPD,118,2
+465,Svenja Stadler,SPD,215,1
+465,Svenja Stadler,SPD,229,1
+465,Svenja Stadler,SPD,24,1
+465,Svenja Stadler,SPD,250,1
+465,Svenja Stadler,SPD,325,1
+465,Svenja Stadler,SPD,335,1
+465,Svenja Stadler,SPD,352,4
+465,Svenja Stadler,SPD,363,1
+465,Svenja Stadler,SPD,364,1
+465,Svenja Stadler,SPD,373,1
+465,Svenja Stadler,SPD,393,3
+465,Svenja Stadler,SPD,453,1
+465,Svenja Stadler,SPD,47,1
+467,Bettina Stark-Watzinger,FDP,106,1
+467,Bettina Stark-Watzinger,FDP,119,1
+467,Bettina Stark-Watzinger,FDP,17,2
+467,Bettina Stark-Watzinger,FDP,205,1
+467,Bettina Stark-Watzinger,FDP,237,2
+467,Bettina Stark-Watzinger,FDP,252,1
+467,Bettina Stark-Watzinger,FDP,283,2
+467,Bettina Stark-Watzinger,FDP,296,1
+467,Bettina Stark-Watzinger,FDP,316,1
+467,Bettina Stark-Watzinger,FDP,335,4
+467,Bettina Stark-Watzinger,FDP,398,2
+467,Bettina Stark-Watzinger,FDP,399,1
+467,Bettina Stark-Watzinger,FDP,428,1
+467,Bettina Stark-Watzinger,FDP,446,2
+467,Bettina Stark-Watzinger,FDP,462,2
+467,Bettina Stark-Watzinger,FDP,486,2
+467,Bettina Stark-Watzinger,FDP,494,1
+467,Bettina Stark-Watzinger,FDP,62,1
+467,Bettina Stark-Watzinger,FDP,83,1
+468,Stephan Brandner,AfD,110,1
+468,Stephan Brandner,AfD,179,1
+468,Stephan Brandner,AfD,185,1
+468,Stephan Brandner,AfD,202,1
+468,Stephan Brandner,AfD,220,2
+468,Stephan Brandner,AfD,232,2
+468,Stephan Brandner,AfD,247,2
+468,Stephan Brandner,AfD,259,2
+468,Stephan Brandner,AfD,309,1
+468,Stephan Brandner,AfD,399,2
+468,Stephan Brandner,AfD,40,2
+468,Stephan Brandner,AfD,424,2
+468,Stephan Brandner,AfD,442,2
+468,Stephan Brandner,AfD,45,1
+468,Stephan Brandner,AfD,459,1
+468,Stephan Brandner,AfD,507,1
+468,Stephan Brandner,AfD,6,1
+468,Stephan Brandner,AfD,68,1
+468,Stephan Brandner,AfD,7,1
+468,Stephan Brandner,AfD,8,2
+469,Stefan Gelbhaar,Greens,309,1
+469,Stefan Gelbhaar,Greens,385,1
+47,Stefan Liebich,The Left,10,2
+47,Stefan Liebich,The Left,113,1
+47,Stefan Liebich,The Left,115,1
+47,Stefan Liebich,The Left,143,9
+47,Stefan Liebich,The Left,162,2
+47,Stefan Liebich,The Left,166,1
+47,Stefan Liebich,The Left,244,1
+47,Stefan Liebich,The Left,266,1
+47,Stefan Liebich,The Left,279,1
+47,Stefan Liebich,The Left,283,1
+47,Stefan Liebich,The Left,284,1
+47,Stefan Liebich,The Left,288,1
+47,Stefan Liebich,The Left,290,2
+47,Stefan Liebich,The Left,298,5
+47,Stefan Liebich,The Left,299,1
+47,Stefan Liebich,The Left,300,1
+47,Stefan Liebich,The Left,340,1
+47,Stefan Liebich,The Left,352,1
+47,Stefan Liebich,The Left,354,1
+47,Stefan Liebich,The Left,363,4
+47,Stefan Liebich,The Left,430,1
+47,Stefan Liebich,The Left,459,1
+47,Stefan Liebich,The Left,465,1
+47,Stefan Liebich,The Left,486,6
+47,Stefan Liebich,The Left,539,2
+470,Stefan Kaufmann,CDU,290,1
+470,Stefan Kaufmann,CDU,338,1
+470,Stefan Kaufmann,CDU,342,1
+470,Stefan Kaufmann,CDU,494,1
+473,Steffen Bilger,CDU,398,1
+473,Steffen Bilger,CDU,480,1
+476,Steffi Lemke,Greens,182,1
+476,Steffi Lemke,Greens,184,1
+476,Steffi Lemke,Greens,228,1
+476,Steffi Lemke,Greens,284,1
+476,Steffi Lemke,Greens,430,2
+476,Steffi Lemke,Greens,509,1
+476,Steffi Lemke,Greens,545,1
+476,Steffi Lemke,Greens,59,1
+479,Sebastian Steineke,CDU,176,2
+479,Sebastian Steineke,CDU,208,2
+479,Sebastian Steineke,CDU,216,1
+479,Sebastian Steineke,CDU,231,1
+479,Sebastian Steineke,CDU,241,2
+479,Sebastian Steineke,CDU,253,7
+479,Sebastian Steineke,CDU,255,1
+479,Sebastian Steineke,CDU,279,4
+479,Sebastian Steineke,CDU,314,1
+479,Sebastian Steineke,CDU,338,4
+479,Sebastian Steineke,CDU,354,4
+479,Sebastian Steineke,CDU,409,1
+479,Sebastian Steineke,CDU,473,1
+479,Sebastian Steineke,CDU,509,1
+479,Sebastian Steineke,CDU,540,1
+479,Sebastian Steineke,CDU,547,4
+480,Stephan Kühn,Greens,177,1
+480,Stephan Kühn,Greens,398,1
+480,Stephan Kühn,Greens,473,1
+480,Stephan Kühn,Greens,486,1
+480,Stephan Kühn,Greens,509,1
+480,Stephan Kühn,Greens,547,3
+483,Mathias Stein,SPD,177,1
+483,Mathias Stein,SPD,259,1
+483,Mathias Stein,SPD,363,1
+483,Mathias Stein,SPD,395,1
+483,Mathias Stein,SPD,398,1
+483,Mathias Stein,SPD,42,2
+483,Mathias Stein,SPD,452,1
+483,Mathias Stein,SPD,502,1
+483,Mathias Stein,SPD,506,1
+483,Mathias Stein,SPD,526,1
+484,Susanne Ferschl,The Left,215,1
+484,Susanne Ferschl,The Left,279,1
+484,Susanne Ferschl,The Left,298,8
+486,Sven-Christian Kindler,Greens,10,1
+486,Sven-Christian Kindler,Greens,101,1
+486,Sven-Christian Kindler,Greens,110,1
+486,Sven-Christian Kindler,Greens,115,1
+486,Sven-Christian Kindler,Greens,119,1
+486,Sven-Christian Kindler,Greens,131,3
+486,Sven-Christian Kindler,Greens,143,2
+486,Sven-Christian Kindler,Greens,146,1
+486,Sven-Christian Kindler,Greens,237,2
+486,Sven-Christian Kindler,Greens,252,1
+486,Sven-Christian Kindler,Greens,264,1
+486,Sven-Christian Kindler,Greens,283,2
+486,Sven-Christian Kindler,Greens,290,1
+486,Sven-Christian Kindler,Greens,294,2
+486,Sven-Christian Kindler,Greens,309,1
+486,Sven-Christian Kindler,Greens,32,1
+486,Sven-Christian Kindler,Greens,335,1
+486,Sven-Christian Kindler,Greens,354,1
+486,Sven-Christian Kindler,Greens,395,1
+486,Sven-Christian Kindler,Greens,399,14
+486,Sven-Christian Kindler,Greens,430,3
+486,Sven-Christian Kindler,Greens,467,2
+486,Sven-Christian Kindler,Greens,47,11
+486,Sven-Christian Kindler,Greens,480,1
+486,Sven-Christian Kindler,Greens,487,1
+486,Sven-Christian Kindler,Greens,510,1
+486,Sven-Christian Kindler,Greens,537,2
+486,Sven-Christian Kindler,Greens,547,1
+486,Sven-Christian Kindler,Greens,68,2
+486,Sven-Christian Kindler,Greens,71,1
+486,Sven-Christian Kindler,Greens,78,1
+486,Sven-Christian Kindler,Greens,84,1
+487,Sven Lehmann,Greens,182,1
+487,Sven Lehmann,Greens,225,3
+487,Sven Lehmann,Greens,237,1
+487,Sven Lehmann,Greens,256,1
+487,Sven Lehmann,Greens,323,2
+487,Sven Lehmann,Greens,326,1
+487,Sven Lehmann,Greens,335,1
+493,Thomas Erndl,CSU,260,1
+494,Thomas Sattelberger,FDP,1,1
+494,Thomas Sattelberger,FDP,104,1
+494,Thomas Sattelberger,FDP,139,2
+494,Thomas Sattelberger,FDP,149,1
+494,Thomas Sattelberger,FDP,283,2
+494,Thomas Sattelberger,FDP,30,2
+494,Thomas Sattelberger,FDP,32,1
+494,Thomas Sattelberger,FDP,335,2
+494,Thomas Sattelberger,FDP,467,1
+494,Thomas Sattelberger,FDP,470,1
+494,Thomas Sattelberger,FDP,527,1
+495,Thomas Seitz,AfD,468,1
+496,Frank Müller-Rosentritt,FDP,202,2
+496,Frank Müller-Rosentritt,FDP,547,1
+498,Thomas Bareiß,CDU,103,2
+498,Thomas Bareiß,CDU,193,1
+498,Thomas Bareiß,CDU,473,1
+498,Thomas Bareiß,CDU,547,2
+498,Thomas Bareiß,CDU,75,1
+498,Thomas Bareiß,CDU,77,1
+498,Thomas Bareiß,CDU,78,1
+5,Achim Kessler,The Left,107,1
+5,Achim Kessler,The Left,110,1
+5,Achim Kessler,The Left,223,1
+5,Achim Kessler,The Left,228,2
+5,Achim Kessler,The Left,298,1
+5,Achim Kessler,The Left,32,2
+5,Achim Kessler,The Left,340,1
+5,Achim Kessler,The Left,42,1
+5,Achim Kessler,The Left,47,2
+5,Achim Kessler,The Left,484,1
+5,Achim Kessler,The Left,487,1
+5,Achim Kessler,The Left,537,2
+5,Achim Kessler,The Left,75,1
+50,Bernd Westphal,SPD,506,1
+501,Thomas Heilmann,CDU,180,1
+501,Thomas Heilmann,CDU,338,1
+502,Thomas Hitschler,SPD,101,4
+502,Thomas Hitschler,SPD,118,2
+502,Thomas Hitschler,SPD,125,1
+502,Thomas Hitschler,SPD,166,4
+502,Thomas Hitschler,SPD,204,1
+502,Thomas Hitschler,SPD,219,1
+502,Thomas Hitschler,SPD,229,2
+502,Thomas Hitschler,SPD,241,1
+502,Thomas Hitschler,SPD,275,2
+502,Thomas Hitschler,SPD,293,1
+502,Thomas Hitschler,SPD,335,7
+502,Thomas Hitschler,SPD,363,2
+502,Thomas Hitschler,SPD,393,2
+502,Thomas Hitschler,SPD,463,1
+502,Thomas Hitschler,SPD,465,1
+502,Thomas Hitschler,SPD,506,1
+502,Thomas Hitschler,SPD,510,1
+506,Timon Gremmels,SPD,103,4
+506,Timon Gremmels,SPD,106,1
+506,Timon Gremmels,SPD,115,1
+506,Timon Gremmels,SPD,203,1
+506,Timon Gremmels,SPD,212,1
+506,Timon Gremmels,SPD,227,2
+506,Timon Gremmels,SPD,283,3
+506,Timon Gremmels,SPD,294,1
+506,Timon Gremmels,SPD,363,1
+506,Timon Gremmels,SPD,397,1
+506,Timon Gremmels,SPD,409,1
+506,Timon Gremmels,SPD,461,2
+506,Timon Gremmels,SPD,502,1
+506,Timon Gremmels,SPD,74,1
+508,Tino Sorge,CDU,223,1
+509,Thomas Jarzombek,CDU,193,1
+509,Thomas Jarzombek,CDU,310,1
+509,Thomas Jarzombek,CDU,335,2
+509,Thomas Jarzombek,CDU,433,2
+509,Thomas Jarzombek,CDU,467,1
+509,Thomas Jarzombek,CDU,480,3
+509,Thomas Jarzombek,CDU,99,1
+510,Tobias Lindner,Greens,101,2
+510,Tobias Lindner,Greens,502,1
+510,Tobias Lindner,Greens,510,1
+511,Tobias Peterka,AfD,139,1
+512,Markus Töns,SPD,145,1
+512,Markus Töns,SPD,166,2
+512,Markus Töns,SPD,352,1
+512,Markus Töns,SPD,406,1
+512,Markus Töns,SPD,96,1
+515,Torsten Herbst,FDP,142,1
+515,Torsten Herbst,FDP,398,1
+515,Torsten Herbst,FDP,480,1
+515,Torsten Herbst,FDP,547,2
+515,Torsten Herbst,FDP,72,1
+515,Torsten Herbst,FDP,78,1
+518,Udo Hemmelgarn,AfD,106,1
+518,Udo Hemmelgarn,AfD,139,1
+518,Udo Hemmelgarn,AfD,18,2
+518,Udo Hemmelgarn,AfD,202,5
+518,Udo Hemmelgarn,AfD,203,4
+518,Udo Hemmelgarn,AfD,228,1
+518,Udo Hemmelgarn,AfD,232,3
+518,Udo Hemmelgarn,AfD,255,1
+518,Udo Hemmelgarn,AfD,259,2
+518,Udo Hemmelgarn,AfD,260,15
+518,Udo Hemmelgarn,AfD,283,4
+518,Udo Hemmelgarn,AfD,3,2
+518,Udo Hemmelgarn,AfD,316,1
+518,Udo Hemmelgarn,AfD,335,1
+518,Udo Hemmelgarn,AfD,376,1
+518,Udo Hemmelgarn,AfD,406,1
+518,Udo Hemmelgarn,AfD,424,1
+518,Udo Hemmelgarn,AfD,426,1
+518,Udo Hemmelgarn,AfD,463,1
+518,Udo Hemmelgarn,AfD,468,7
+518,Udo Hemmelgarn,AfD,470,1
+518,Udo Hemmelgarn,AfD,503,1
+518,Udo Hemmelgarn,AfD,507,1
+518,Udo Hemmelgarn,AfD,524,1
+518,Udo Hemmelgarn,AfD,540,1
+518,Udo Hemmelgarn,AfD,59,1
+518,Udo Hemmelgarn,AfD,68,1
+518,Udo Hemmelgarn,AfD,75,1
+518,Udo Hemmelgarn,AfD,78,1
+522,Uli Grötsch,SPD,113,1
+522,Uli Grötsch,SPD,139,1
+522,Uli Grötsch,SPD,185,1
+522,Uli Grötsch,SPD,259,1
+522,Uli Grötsch,SPD,289,1
+522,Uli Grötsch,SPD,364,1
+522,Uli Grötsch,SPD,502,1
+523,Ulla Ihnen,FDP,142,1
+523,Ulla Ihnen,FDP,237,1
+523,Ulla Ihnen,FDP,283,1
+523,Ulla Ihnen,FDP,356,1
+527,Andrew Ullmann,FDP,104,1
+527,Andrew Ullmann,FDP,116,1
+527,Andrew Ullmann,FDP,141,1
+527,Andrew Ullmann,FDP,142,1
+527,Andrew Ullmann,FDP,177,1
+527,Andrew Ullmann,FDP,189,1
+527,Andrew Ullmann,FDP,232,2
+527,Andrew Ullmann,FDP,260,5
+527,Andrew Ullmann,FDP,282,1
+527,Andrew Ullmann,FDP,288,1
+527,Andrew Ullmann,FDP,316,1
+527,Andrew Ullmann,FDP,398,2
+527,Andrew Ullmann,FDP,503,1
+527,Andrew Ullmann,FDP,63,1
+53,Bettina Hoffmann,Greens,283,1
+53,Bettina Hoffmann,Greens,41,1
+53,Bettina Hoffmann,Greens,486,1
+530,Ulrich Lechte,FDP,288,1
+532,Ute Vogt,SPD,245,1
+534,Uwe Schulz,AfD,232,1
+536,Uwe Kekeritz,Greens,177,1
+536,Uwe Kekeritz,Greens,409,2
+537,Victor Perli,The Left,139,1
+537,Victor Perli,The Left,143,2
+537,Victor Perli,The Left,298,1
+537,Victor Perli,The Left,99,1
+539,Kathrin Vogler,The Left,117,1
+539,Kathrin Vogler,The Left,203,1
+539,Kathrin Vogler,The Left,208,1
+539,Kathrin Vogler,The Left,209,2
+539,Kathrin Vogler,The Left,223,2
+539,Kathrin Vogler,The Left,228,2
+539,Kathrin Vogler,The Left,259,1
+539,Kathrin Vogler,The Left,323,1
+539,Kathrin Vogler,The Left,385,13
+539,Kathrin Vogler,The Left,399,4
+539,Kathrin Vogler,The Left,40,1
+539,Kathrin Vogler,The Left,402,1
+539,Kathrin Vogler,The Left,47,3
+539,Kathrin Vogler,The Left,487,1
+539,Kathrin Vogler,The Left,84,1
+547,Marco Wanderwitz,CDU,104,1
+547,Marco Wanderwitz,CDU,139,2
+547,Marco Wanderwitz,CDU,166,1
+547,Marco Wanderwitz,CDU,177,2
+547,Marco Wanderwitz,CDU,182,5
+547,Marco Wanderwitz,CDU,237,3
+547,Marco Wanderwitz,CDU,250,2
+547,Marco Wanderwitz,CDU,256,1
+547,Marco Wanderwitz,CDU,295,2
+547,Marco Wanderwitz,CDU,316,1
+547,Marco Wanderwitz,CDU,363,3
+547,Marco Wanderwitz,CDU,373,4
+547,Marco Wanderwitz,CDU,399,5
+547,Marco Wanderwitz,CDU,437,1
+547,Marco Wanderwitz,CDU,459,1
+547,Marco Wanderwitz,CDU,461,1
+547,Marco Wanderwitz,CDU,473,1
+547,Marco Wanderwitz,CDU,476,1
+547,Marco Wanderwitz,CDU,479,3
+547,Marco Wanderwitz,CDU,480,5
+547,Marco Wanderwitz,CDU,481,2
+547,Marco Wanderwitz,CDU,496,2
+547,Marco Wanderwitz,CDU,508,1
+547,Marco Wanderwitz,CDU,515,3
+547,Marco Wanderwitz,CDU,526,1
+547,Marco Wanderwitz,CDU,59,1
+547,Marco Wanderwitz,CDU,82,2
+547,Marco Wanderwitz,CDU,98,1
+553,Wieland Schinnenburg,FDP,146,2
+553,Wieland Schinnenburg,FDP,149,1
+553,Wieland Schinnenburg,FDP,215,1
+553,Wieland Schinnenburg,FDP,295,1
+553,Wieland Schinnenburg,FDP,323,1
+553,Wieland Schinnenburg,FDP,383,1
+553,Wieland Schinnenburg,FDP,428,1
+56,Mario Brandenburg,FDP,141,1
+56,Mario Brandenburg,FDP,215,1
+56,Mario Brandenburg,FDP,259,1
+56,Mario Brandenburg,FDP,318,1
+56,Mario Brandenburg,FDP,502,1
+59,Britta Haßelmann,Greens,10,1
+59,Britta Haßelmann,Greens,115,1
+59,Britta Haßelmann,Greens,184,2
+59,Britta Haßelmann,Greens,252,1
+59,Britta Haßelmann,Greens,264,1
+59,Britta Haßelmann,Greens,309,1
+59,Britta Haßelmann,Greens,316,1
+59,Britta Haßelmann,Greens,323,2
+59,Britta Haßelmann,Greens,525,1
+59,Britta Haßelmann,Greens,77,1
+59,Britta Haßelmann,Greens,78,1
+6,AfD,AfD,106,1
+6,AfD,AfD,266,2
+6,AfD,AfD,290,1
+6,AfD,AfD,385,1
+6,AfD,AfD,424,1
+6,AfD,AfD,430,1
+6,AfD,AfD,464,2
+6,AfD,AfD,468,1
+6,AfD,AfD,75,1
+62,Benjamin Strasser,FDP,221,1
+62,Benjamin Strasser,FDP,283,1
+62,Benjamin Strasser,FDP,284,1
+62,Benjamin Strasser,FDP,296,1
+62,Benjamin Strasser,FDP,316,1
+62,Benjamin Strasser,FDP,331,4
+62,Benjamin Strasser,FDP,385,1
+63,Sandra Bubendorfer-Licht,FDP,527,1
+63,Sandra Bubendorfer-Licht,FDP,62,1
+66,Christoph Bernstiel,CDU,75,1
+67,Christian Jung,FDP,139,1
+67,Christian Jung,FDP,149,3
+67,Christian Jung,FDP,151,1
+67,Christian Jung,FDP,179,1
+67,Christian Jung,FDP,189,1
+67,Christian Jung,FDP,283,1
+67,Christian Jung,FDP,335,1
+67,Christian Jung,FDP,356,1
+67,Christian Jung,FDP,426,2
+67,Christian Jung,FDP,428,1
+67,Christian Jung,FDP,433,2
+67,Christian Jung,FDP,459,1
+67,Christian Jung,FDP,68,1
+67,Christian Jung,FDP,78,1
+68,Christian Lindner,FDP,139,2
+68,Christian Lindner,FDP,385,1
+68,Christian Lindner,FDP,453,1
+68,Christian Lindner,FDP,56,1
+69,Christine Aschenberg-Dugnus,FDP,282,1
+7,AfD Bundestag,AfD,312,1
+7,AfD Bundestag,AfD,411,1
+7,AfD Bundestag,AfD,442,1
+70,Cansel Kiziltepe,SPD,548,1
+71,Caren Lay,The Left,15,2
+71,Caren Lay,The Left,361,1
+71,Caren Lay,The Left,385,5
+72,Carina Konrad,FDP,129,2
+72,Carina Konrad,FDP,149,1
+72,Carina Konrad,FDP,356,1
+72,Carina Konrad,FDP,380,1
+72,Carina Konrad,FDP,398,2
+72,Carina Konrad,FDP,68,2
+74,Carsten Träger,SPD,101,1
+74,Carsten Träger,SPD,506,1
+75,CDU,CDU,107,1
+75,CDU,CDU,139,1
+75,CDU,CDU,198,2
+75,CDU,CDU,215,1
+75,CDU,CDU,228,1
+75,CDU,CDU,406,6
+75,CDU,CDU,441,1
+75,CDU,CDU,463,1
+75,CDU,CDU,68,1
+77,CDU CSU Bundestag,CDU,281,2
+77,CDU CSU Bundestag,CDU,338,1
+77,CDU CSU Bundestag,CDU,426,2
+77,CDU CSU Bundestag,CDU,479,2
+77,CDU CSU Bundestag,CDU,493,1
+77,CDU CSU Bundestag,CDU,504,1
+78,Cem Özdemir,Greens,110,2
+78,Cem Özdemir,Greens,131,2
+78,Cem Özdemir,Greens,177,1
+78,Cem Özdemir,Greens,193,2
+78,Cem Özdemir,Greens,256,1
+78,Cem Özdemir,Greens,306,1
+78,Cem Özdemir,Greens,309,1
+78,Cem Özdemir,Greens,335,1
+78,Cem Özdemir,Greens,337,1
+78,Cem Özdemir,Greens,398,1
+78,Cem Özdemir,Greens,480,1
+78,Cem Özdemir,Greens,492,1
+78,Cem Özdemir,Greens,59,1
+78,Cem Özdemir,Greens,68,1
+79,Christine Buchholz,The Left,107,1
+79,Christine Buchholz,The Left,298,2
+8,Stephan Protschka,AfD,175,1
+8,Stephan Protschka,AfD,18,1
+8,Stephan Protschka,AfD,185,1
+8,Stephan Protschka,AfD,203,1
+8,Stephan Protschka,AfD,260,1
+8,Stephan Protschka,AfD,3,1
+8,Stephan Protschka,AfD,316,1
+8,Stephan Protschka,AfD,335,2
+8,Stephan Protschka,AfD,338,3
+8,Stephan Protschka,AfD,414,1
+8,Stephan Protschka,AfD,446,1
+8,Stephan Protschka,AfD,468,2
+8,Stephan Protschka,AfD,48,1
+8,Stephan Protschka,AfD,507,1
+8,Stephan Protschka,AfD,68,2
+82,Christian Kühn,Greens,203,1
+82,Christian Kühn,Greens,547,1
+83,Christian Dürr,FDP,205,1
+83,Christian Dürr,FDP,409,1
+85,Christian Lange,SPD,275,1
+85,Christian Lange,SPD,434,1
+86,Christoph Ploß,CDU,176,1
+86,Christoph Ploß,CDU,222,2
+86,Christoph Ploß,CDU,473,1
+87,Christian Wirth,AfD,395,1
+87,Christian Wirth,AfD,62,1
+9,Grigorios Aggelidis,FDP,260,1
+9,Grigorios Aggelidis,FDP,283,1
+9,Grigorios Aggelidis,FDP,377,1
+9,Grigorios Aggelidis,FDP,68,3
+90,Cornelia Möhring,The Left,107,1
+90,Cornelia Möhring,The Left,117,1
+90,Cornelia Möhring,The Left,143,1
+90,Cornelia Möhring,The Left,168,2
+90,Cornelia Möhring,The Left,298,1
+90,Cornelia Möhring,The Left,32,2
+90,Cornelia Möhring,The Left,385,3
+90,Cornelia Möhring,The Left,47,2
+90,Cornelia Möhring,The Left,484,2
+90,Cornelia Möhring,The Left,487,1
+93,Corinna Rüffer,Greens,10,1
+96,Dagmar Freitag,SPD,166,1
+96,Dagmar Freitag,SPD,229,1
+96,Dagmar Freitag,SPD,24,1
+96,Dagmar Freitag,SPD,250,1
+96,Dagmar Freitag,SPD,290,1
+96,Dagmar Freitag,SPD,393,1
+96,Dagmar Freitag,SPD,4,1
+96,Dagmar Freitag,SPD,506,2
+97,Daniela Kluckert,FDP,142,1
+97,Daniela Kluckert,FDP,428,1
+97,Daniela Kluckert,FDP,480,1
+97,Daniela Kluckert,FDP,72,1
+98,Daniela Kolbe,SPD,139,1
+98,Daniela Kolbe,SPD,395,1
+98,Daniela Kolbe,SPD,517,1
+99,Daniela Ludwig,CSU,103,3
+99,Daniela Ludwig,CSU,115,1
+99,Daniela Ludwig,CSU,119,5
+99,Daniela Ludwig,CSU,193,4
+99,Daniela Ludwig,CSU,335,1
+99,Daniela Ludwig,CSU,338,1
+99,Daniela Ludwig,CSU,385,11
+99,Daniela Ludwig,CSU,473,1
+99,Daniela Ludwig,CSU,480,1
+99,Daniela Ludwig,CSU,509,2
