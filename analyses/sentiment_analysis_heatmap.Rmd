@@ -1,0 +1,69 @@
+---
+title: "Sentiment Analysis with VADER and RoBERTa outputs"
+author: "Amber Chin"
+date: "3/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+## Create heatmap with VADER scores
+
+*VADER scores are obtained using the python file "vader_sentiment_analysis.ipynb"*
+
+Using the output dataframes from "vader_sentiment_analysis.ipynb", this code creates a heatmap of the average directional sentiment scores for each party.
+
+```{r}
+## load VADER scores from python output files
+vader_same_party<- read_csv("eng_tweets_same_mtn.csv")
+vader_same_party<- mutate(vader_same_party, type="same-party") 
+
+vader_diff_party<- read_csv("eng_tweets_diff_mtn.csv")
+vader_diff_party<- mutate(vader_diff_party, type="cross-party")
+
+vader_total<- rbind(vader_same_party, vader_diff_party)
+parties = c("Greens",'The Left','FDP','CDU','CSU','AfD','SPD') #remove independent/fraktionlos members
+vader_total<- filter(vader_total, party %in% parties)
+```
+
+*Compare same-party vs cross-party VADER scores via "compound" score*
+
+The "compound" score is a summary metric from the VADER model that measures the overall polarity of a text. We use this metric in each of the analyses for the sentiment score comparisons.
+```{r}
+## Welch t-test to compare sentiment scores
+t.test(vader_diff_party$compound, vader_same_party$compound) 
+```
+
+```{r}
+## get party-level sentiment score averages
+party_avgs<- vader_total %>% 
+  group_by(party,target_party, type) %>% 
+  summarize(avg=round(mean(compound),digits=4)) %>% filter(target_party %in% parties)
+
+## convert party names to German for consistency 
+party_avgs$party[party_avgs$party=="Greens"] <- "Grünen"
+party_avgs$target_party[party_avgs$target_party=="Greens"] <- "Grünen"
+party_avgs$party[party_avgs$party=="The Left"] <- "Linke"
+party_avgs$target_party[party_avgs$target_party=="The Left"] <- "Linke"
+
+party_avgs$avg<- round(party_avgs$avg,2)
+
+## generate plot
+heatmap <- ggplot(party_avgs, aes(party, target_party)) +
+  geom_tile(aes(fill = avg)) + 
+  scale_fill_gradient2(low = "red",mid="white", high = "blue", limits=c(-0.8, 0.8), breaks=seq(-0.8,0.8,by=0.2)) + 
+  xlab("\n Tweet Author Affiliation") +
+  ylab("Recipient Affiliation ") +
+  geom_text(aes(label = avg), color = "black", size = 4) +
+  labs(fill="Average Sentiment Polarity") +
+  theme(legend.direction = "vertical", legend.position = "right", 
+        legend.title = element_blank(),
+        legend.key.height = unit(2, 'cm'),
+        axis.title= element_text(face= "bold", size=14),
+        axis.text= element_text(size= 12)) +
+  coord_fixed()
+heatmap 
+```
+
