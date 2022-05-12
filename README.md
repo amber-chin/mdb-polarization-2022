@@ -50,8 +50,13 @@ Network statistics for each level of analysis can be found in the table below. N
 
 **External-Internal Index**
 
-To evaluate polarization levels, we calculate an External-Internal (E-I) Index for each network (Krackhardt and Stern 1988). This is done by calculating the number of *inter-*party interactions relative to the *intra-*party interactions. The E-I index is a value between [-1,1] that indicates the level of homophily for a given group, which in our case refers to a political party, such that a value of -1 means all connections are internal to the group and a value of +1 means all connections are external to the group. 
+To evaluate polarization levels, we calculate an External-Internal (E-I) Index for each network (Krackhardt and Stern 1988). This is done by calculating the number of *inter-* party interactions relative to the *intra-* party interactions. The E-I index is a value between [-1,1] that indicates the level of homophily for a given group, which in our case refers to a political party, such that a value of -1 means all connections are internal to the group and a value of +1 means all connections are external to the group. 
 
+<img width="400" alt="ei_index_plot" src="https://user-images.githubusercontent.com/55859245/168038571-9feb9230-b494-46d4-91b1-ce987bfaed66.png">
+
+**Sentiment analysis of the mentions network**
+
+We use tweets in German that contain a mention of a single Bundestag member for the sentiment analysis (*N* = 3,
 
 
 ## Reference Paper
