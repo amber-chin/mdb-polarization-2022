@@ -13,6 +13,7 @@ We use Twitter data for the year 2020 to identify polarization trends among memb
 ![net_retweets](https://user-images.githubusercontent.com/55859245/168030540-14b249b2-c552-4184-b509-a73c8e4fce9e.png)
 
 **Mentions network**
+![net_mentions](https://user-images.githubusercontent.com/55859245/168032972-d075c0a6-b31b-434f-bfa1-640b132f5667.png)
 
 **Following-follower network**
 
