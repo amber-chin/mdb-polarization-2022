@@ -58,7 +58,7 @@ To evaluate polarization levels, we calculate an External-Internal (E-I) Index f
 
 We use tweets in German that contain a mention of a single Bundestag member for the sentiment analysis (*N* = 3,080). Tweets are translated to English and scored using VADER, a popular sentiment model for evaluating short texts, like tweets. We find that same-party mentions are significantly more positive than cross-party mentions, and that the Alternative für Deutschland, an alt-right party, sends and receives the most negative messages.
 
-
+<img src= "https://user-images.githubusercontent.com/55859245/172570616-61b69cb2-03fa-4219-9149-4322f39cca65.png">
 
 ## Reference Paper
 
